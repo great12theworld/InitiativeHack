@@ -7,7 +7,7 @@ const prompt = document.getElementById('prompt');
 const filesystem = { //as it seems this is the filesystem.
     "/home/user" : ["Documents",".system"],
     "/home/user/Documents": ["notes.txt"],
-    "/home/user/.system" : ["access.log"]
+    "/home/user/.system" : ["access.log", "session.txt"]
 };
 const files = {
     "/home/user/Documents/notes.txt" : 
@@ -20,9 +20,19 @@ const files = {
         "3:14:09 - session started\n"+
         "3:14:12 - user authentication bypassed\n" +
         "3:14:15 - WARNING: unknown user detected\n" +
-        "3:14:19 - unknown user connected"
-}
+        "3:14:19 - unknown user connected\n" +
+        "3:14:19 - Restore utility available\n" + 
+        "3:14:19 - Note: Where did you locate this terminal? 7 Letters, a ghost\n",
 
+    "/home/user/.system/session.txt" :
+        "SESSION RECORD\n\n"+
+        "Particpant: [REDACTED]\n" +
+        "Trial: 07\n" +
+        "Status: INCOMPLETE",
+}
+const lockedFiles = {
+    "/home/user/.system/session.txt" : "PHANTOM"
+}
 
 let currentPath = "/home/user"; //initializes the start path
 
@@ -131,6 +141,12 @@ function runCommand(command){
             printLine("cat: " + filename + ": No such file");
             return;
         }
+        
+        if (lockedFiles[filePath] !== undefined) {
+            printLine("cat: " + filename + ": Permission denied");
+            return;
+        }
+
         printLine(files[filePath]);
         return;
     }
