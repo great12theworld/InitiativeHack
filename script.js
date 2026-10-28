@@ -33,6 +33,8 @@ const files = {
 const lockedFiles = {
     "/home/user/.system/session.txt" : "PHANTOM"
 }
+const unlockedFiles = new Set();
+let pendingUnlockPath = null;
 
 let currentPath = "/home/user"; //initializes the start path
 
@@ -66,18 +68,45 @@ document.addEventListener('keydown', (event) => {
         input.textContent = currentInput;
         event.preventDefault();
     }
-    if (event.key == "Enter"){
+    if (event.key === "Enter") {
+        if (pendingUnlockPath !== null) {
+            const password = currentInput;
+
+            printLine("Password: " + "*".repeat(password.length));
+
+            if (password === lockedFiles[pendingUnlockPath]) {
+                unlockedFiles.add(pendingUnlockPath);
+                printLine("Access granted.");
+            } else {
+                printLine("Access denied.");
+            }
+
+            pendingUnlockPath = null;
+            currentInput = "";
+            input.textContent = "";
+            prompt.textContent = getPrompt();
+
+            event.preventDefault();
+            return;
+        }
+
+        // Otherwise, execute a normal command.
         const command = currentInput;
         const newLine = document.createElement("div");
         newLine.textContent = getPrompt() + command;
 
         output.appendChild(newLine);
-        
-        runCommand(command)
-        
+
+        runCommand(command);
+
         currentInput = "";
-        input.textContent="";
-        prompt.textContent = getPrompt();
+        input.textContent = "";
+
+        if (pendingUnlockPath === null) {
+            prompt.textContent = getPrompt();
+        } else {
+            prompt.textContent = "Password: ";
+        }
 
         event.preventDefault();
     }
@@ -105,6 +134,41 @@ function runCommand(command){
         }
         return;
     }
+
+    
+    if (cleanCommand.startsWith("unlock ")) {
+        const filename = command.trim().slice(7).trim();
+
+        if (filename === "") {
+            printLine("Usage: unlock <filename>");
+            return;
+        }
+
+        const filePath = filename.startsWith("/")
+            ? filename
+            : currentPath + "/" + filename;
+
+        if (files[filePath] === undefined) {
+            printLine("unlock: " + filename + ": No such file");
+            return;
+        }
+
+        if (lockedFiles[filePath] === undefined) {
+            printLine("unlock: " + filename + ": File is not locked");
+            return;
+        }
+
+        if (unlockedFiles.has(filePath)) {
+            printLine("unlock: " + filename + ": Already unlocked");
+            return;
+        }
+
+        pendingUnlockPath = filePath;
+        printLine("Password required for " + filename);
+        prompt.textContent = "Password: ";
+        return;
+    }
+
 
     if (cleanCommand == "pwd"){ //this.. prints the directory.. pls tell me you knew this
         printLine(currentPath);
@@ -142,10 +206,15 @@ function runCommand(command){
             return;
         }
         
-        if (lockedFiles[filePath] !== undefined) {
+        
+        if (
+            lockedFiles[filePath] !== undefined &&
+            !unlockedFiles.has(filePath)
+        ) {
             printLine("cat: " + filename + ": Permission denied");
             return;
         }
+
 
         printLine(files[filePath]);
         return;
