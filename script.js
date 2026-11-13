@@ -7,7 +7,8 @@ const prompt = document.getElementById('prompt');
 const filesystem = { //as it seems this is the filesystem.
     "/home/user" : ["Documents",".system"],
     "/home/user/Documents": ["notes.txt"],
-    "/home/user/.system" : ["access.log", "session.txt"]
+    "/home/user/.system" : ["access.log", "session.txt", "diamond"],
+    "/home/user/.system/diamond" : ["1","2","3"]
 };
 const files = {
     "/home/user/Documents/notes.txt" : 
@@ -28,10 +29,31 @@ const files = {
         "SESSION RECORD\n\n"+
         "Particpant: [REDACTED]\n" +
         "Trial: 07\n" +
-        "Status: INCOMPLETE",
+        "Status: INCOMPLETE\n" +
+        "QIBOUPN",
+
+    "/home/user/.system/diamond/1" : 
+        "Welcome.\n\n" +
+        "Begin.\n\n" +
+        "Challenge, 2 of Diamonds. Game start.\n" +
+        "42325371",
+    "/home/user/.system/diamond/2":
+        "Challenge, 3 of Diamonds. Game start.\n"+
+        "Hello. We have not properly met before.\n"+
+        "My name is Ŗ̶̧͉͚̗̱̫͚̪̘̼̯̙͓̻̻͛̿͊̓̈́̾̏̒͆̀́́ͅư̶̢̡̥̻̙͕̙͙̘̖͖̳͙̼̣̟͍̩̯̋̾̇͆̈͆̌̈́̀̓͂̈́̋͆̀͘͜͜͝͠ͅt̶̰͙̓̊̇̑̆̌͛̎̌͒͗̂̽̍̄̈́͠͠ḥ̶͍̰̗̭̘͕̱̳̬͇̐̈́͋̽̎͝ͅ  and I would love to learn more about you.\n\n\n"+
+        "me? oh i'm not all that special. I like to read sometimes, my favorite author has to be Dante Alighieri\n"+
+        "I just love his execution of The Divine Comedy. You know Dan Brown's remake was horrible.\n" +
+        "Especially in how it didnt get straight to the point, it made you go through these stupid twists and turns just to get to a sullied version of the same ending.\n" +
+        "Of course I would never spoil it. Im too kind.\n\n" + 
+        "Ah yes access to the 'diamond 3 file' or whatever, the code is BURN",
+    "/home/user/.system/diamond/3":
+        "Filler",
 }
 const lockedFiles = {
-    "/home/user/.system/session.txt" : "PHANTOM"
+    "/home/user/.system/session.txt" : "PHANTOM",
+    "/home/user/.system/diamond/1" : "PHANTOM",
+    "/home/user/.system/diamond/2" : "HELP",
+    "/home/user/.system/diamond/3" : "BURN",
 }
 const unlockedFiles = new Set();
 let pendingUnlockPath = null;
