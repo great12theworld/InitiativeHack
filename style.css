@@ -17,6 +17,7 @@ body{
     height: 100vh;
     padding: 20px;
     cursor: text;
+    overflow-y: auto;
 }
 #input-line{
     display: flex;

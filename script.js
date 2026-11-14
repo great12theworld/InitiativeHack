@@ -3,12 +3,13 @@ const output = document.getElementById('output');
 
 let currentInput = "";
 const prompt = document.getElementById('prompt');
+const terminal = document.getElementById('terminal')
 
 const filesystem = { //as it seems this is the filesystem.
     "/home/user" : ["Documents",".system"],
     "/home/user/Documents": ["notes.txt"],
     "/home/user/.system" : ["access.log", "session.txt", "diamond"],
-    "/home/user/.system/diamond" : ["1","2","3"]
+    "/home/user/.system/diamond" : ["1","2","3", "4","5"]
 };
 const files = {
     "/home/user/Documents/notes.txt" : 
@@ -35,25 +36,34 @@ const files = {
     "/home/user/.system/diamond/1" : 
         "Welcome.\n\n" +
         "Begin.\n\n" +
-        "Challenge, 2 of Diamonds. Game start.\n" +
+        "Challenge, 1 of Diamonds. Game start.\n" +
         "42325371",
     "/home/user/.system/diamond/2":
-        "Challenge, 3 of Diamonds. Game start.\n"+
+        "Challenge, 2 of Diamonds. Game start.\n"+
         "Hello. We have not properly met before.\n"+
         "My name is Ŗ̶̧͉͚̗̱̫͚̪̘̼̯̙͓̻̻͛̿͊̓̈́̾̏̒͆̀́́ͅư̶̢̡̥̻̙͕̙͙̘̖͖̳͙̼̣̟͍̩̯̋̾̇͆̈͆̌̈́̀̓͂̈́̋͆̀͘͜͜͝͠ͅt̶̰͙̓̊̇̑̆̌͛̎̌͒͗̂̽̍̄̈́͠͠ḥ̶͍̰̗̭̘͕̱̳̬͇̐̈́͋̽̎͝ͅ  and I would love to learn more about you.\n\n\n"+
         "me? oh i'm not all that special. I like to read sometimes, my favorite author has to be Dante Alighieri\n"+
         "I just love his execution of The Divine Comedy. You know Dan Brown's remake was horrible.\n" +
-        "Especially in how it didnt get straight to the point, it made you go through these stupid twists and turns just to get to a sullied version of the same ending.\n" +
+        "Especially in how it didnt get straight to the point, it made you go through these stupid twists and turns just to get to a ROTTED version of the same ending.\n" +
         "Of course I would never spoil it. Im too kind.\n\n" + 
         "Ah yes access to the 'diamond 3 file' or whatever, the code is BURN",
     "/home/user/.system/diamond/3":
-        "Filler",
+        "SYSTEM: This set of challenges is the easiest of the four, please refer to us as Enigma.\n\n"+
+        "Challenge, 3 of Diamonds. Game start.\n"+
+        "UkFORE9NSVpBVElPTg==",
+    "/home/user/.system/diamond/4":
+        "Challenge, 4 of Diamonds. Game start.\n" +
+        "FXHYY",
+    "/home/user/.system/diamond/5" :
+        "Challenge, 5 of Diamonds. Game start.\n"
 }
 const lockedFiles = {
     "/home/user/.system/session.txt" : "PHANTOM",
     "/home/user/.system/diamond/1" : "PHANTOM",
     "/home/user/.system/diamond/2" : "HELP",
     "/home/user/.system/diamond/3" : "BURN",
+    "/home/user/.system/diamond/4" : "RANDOMIZATION",
+    "/home/user/.system/diamond/5" : "SKULL"
 }
 const unlockedFiles = new Set();
 let pendingUnlockPath = null;
@@ -75,6 +85,10 @@ function getPrompt(){
         return "user@unknown:~/" + currentPath.slice("/home/user/".length) + "$ " //sets it up so that the prompt looks cooler
     }
     return "user@unknown:" + currentPath + "$ ";
+}
+
+function scrollToBottom(){
+    terminal.scrollTop = terminal.scrollHeight;
 }
 
 
@@ -130,6 +144,7 @@ document.addEventListener('keydown', (event) => {
             prompt.textContent = "Password: ";
         }
 
+        scrollToBottom();
         event.preventDefault();
     }
 });
@@ -138,6 +153,8 @@ function printLine(text){
     const newLine = document.createElement("div");
     newLine.textContent = text;
     output.appendChild(newLine);
+
+    scrollToBottom();
 }
 
 function runCommand(command){
