@@ -25,20 +25,20 @@ const files = {
         "3:14:15 - WARNING: unknown user detected\n" +
         "3:14:19 - unknown user connected\n" +
         "3:14:19 - Restore utility available\n" + 
-        "3:14:19 - Note: Where did you locate this terminal? 7 Letters, a ghost\n",
+        "3:14:19 - Note: Where did you locate this terminal? 7 Letters, a ghost\n", //Basic riddle, the answer is PHANTOM.
 
     "/home/user/.system/session.txt" :
         "SESSION RECORD\n\n"+
         "Particpant: [REDACTED]\n" +
         "Trial: 07\n" +
         "Status: INCOMPLETE\n" +
-        "QIBOUPN",
+        "QIBOUPN", //Ceacer Cipher
 
     "/home/user/.system/diamond/1" : 
         "Welcome.\n\n" +
         "Begin.\n\n" +
         "Challenge, 1 of Diamonds. Game start.\n" +
-        "42325371",
+        "42325371", //using a phone if you type these in you get the words HELP
     "/home/user/.system/diamond/2":
         "\nChallenge, 2 of Diamonds. Game start.\n"+
         "Hello. We have not properly met before.\n"+
@@ -51,16 +51,16 @@ const files = {
     "/home/user/.system/diamond/3":
         "\nSYSTEM: This set of challenges is the easiest of the four, please refer to us as Enigma.\n\n"+
         "Challenge, 3 of Diamonds. Game start.\n"+
-        "UkFORE9NSVpBVElPTg==",
+        "UkFORE9NSVpBVElPTg==", //base64 encoding
     "/home/user/.system/diamond/4":
         "\nChallenge, 4 of Diamonds. Game start.\n" +
-        "FXHYY",
+        "FXHYY", //Ceaser cipher
     "/home/user/.system/diamond/5" :
         "\nChallenge, 5 of Diamonds. Game start.\n" +
-        "what is your name?",
+        "what is your name?", //use whoami command
     "/home/user/.system/diamond/6" : 
         "\nChallenge, 6 of Diamonds. Game start. \n" +
-        "Aolwohuavtjvklwohuavtpzwohuavtzljvuk. shift 7.",
+        "Aolwohuavtjvklwohuavtpzwohuavtzljvuk. shift 7.", //I forgot. lmk if you solve it
     "/home/user/.system/diamond/7" : 
         "\nChallenge, 7 of Diamonds. Game start.\n" +
         "Hey nerds. This is Mason Haven talking to you live." +
@@ -82,17 +82,35 @@ const files = {
         "Please, I am slowly being torn and taken from what I am, from who I am.\n" + 
         "Please, preserving me is the only way to keep the digital safe.\n" + 
         "Ending soon, the world is.\n" + 
-        "Dont let it happen. Stop it.\n",
+        "Dont let it happen. Stop it.\n", //The first letters of each line read  IM TRAPPED.
     "/home/user/.system/diamond/9" :
         "\n Challenge, 9 of Diamonds. Game start.\n" +
-        "Somewhere on the web there is a collective of thousands of messages,\n" +
-        "It is called the _ _ _ _ _ _ Project.",
+        "Somewhere on the web there is a collective of thousands of unused messages,\n" +
+        "It is called the _ _ _ _ _ _ Project.", //Unsent project
     "/home/user/.system/diamond/10" :
         "\n Challenge, 10 of Diamonds. Game start.\n" +
         "Final challenge of the numbers, what do you think the code is?" +
-        "Where is Kento Nanami from?",
+        "Where is Kento Nanami from?", //OSINT
     "/home/user/.system/club/1" : 
-        "\n Challenge, 1 of Clubs. Game start.\n", 
+        "\n Challenge, 1 of Clubs. Game start.\n" + //steaganography
+        "Check the image titled 'club 1' in the git repo here: https://github.com/great12theworld/InitiativeHack",
+    "/home/user/.system/club/2" :
+        "\n Challenge 2 of Clubs. Game start.\n" +
+        "Λ$5¤27m3n†", //leet speak
+    "/home/user/.system/club/3" :
+        "\n Challenge 3 of Clubs. Game start.\n" +
+        "ᗡƎSϽƎNᗡ∀N⊥", //its just upside down
+    "/home/user/.system/club/4" :
+        "\n Challenge 4 of Clubs. Game start.\n" + 
+        "2c4ffed33e59e90bdb0acebb76c25005", //MD5 cipher I think
+    "/home/user/.system/club/5" : 
+        "\n Challenge 5 of Clubs. Game start.\n" +
+        "xiceh-gocah-dafig-nohyh-noxex", //bubble smth cipher
+    "/home/user/.system/club/6" :
+        "\n Challenge 6 of Clubs. Game start.\n\n" + //Trithemius Ave Maria cipher
+        "Gloriosus clemens\n" +
+        "Conseruator sapientissimus\n"+
+        "Conseruator\n",
 }
 const lockedFiles = {
     "/home/user/.system/session.txt" : "PHANTOM",
@@ -105,7 +123,16 @@ const lockedFiles = {
     "/home/user/.system/diamond/7" : "SECOND",
     "/home/user/.system/diamond/8" : "PASSPORT",
     "/home/user/.system/diamond/9" : "TRAPPED",
-    "/home/user/.system/diamond/10" : "UNSENT"
+    "/home/user/.system/diamond/10" : "UNSENT",
+    "/home/user/.system/club/1" : "PHANTOM",
+    "/home/user/.system/club/2" : "RUNNING",
+    "/home/user/.system/club/3" : "ASSORTMENT",
+    "/home/user/.system/club/4" : "DESCENDANT",
+    "/home/user/.system/club/5" : "WELCOMING",
+    "/home/user/.sysetm/club/6" : "ETERNITY",
+    "/home/user/.system/club/7" : "OASIS",
+    "/home/user/.system/club/8" : "PARTION"
+
 }
 const unlockedFiles = new Set();
 let pendingUnlockPath = null;
