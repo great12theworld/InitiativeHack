@@ -142,11 +142,16 @@ const files = {
     "/home/user/.system/heart/1" :
         "\n Challenge 1 of Hearts. Game start.\n" +
         "This set of challenges is significantly more difficult and applies a seperate format.\n"+
-        "Please account for these difficulties. Ruth is not here to save you. The initiatve will not save you.",
+        "Please account for these difficulties. Ruth is not here to save you. The initiatve will not save you.\n" +
+        "SYSTEM: This set of challenges will require use of the github repository, only look at the files titled with the name and number of the associated challenge.\n"+
+        "Example: you are on challenge 'Club 4' only access files labeled: 'Club 4 image' or 'Club 4 text_1' etc." +
+        "Please go to the github repository to get the code for the next challenge found here: ",
+    "/home/user/.system/heart/2" :
+        "\n Challenge 2 of Hearts. Game start.\n" +
+        ""
 }
 const lockedFiles = {
     "/home/user/.system/session.txt" : "PHANTOM",
-    "/home/user/.system/diamond/1" : "PHANTOM",
     "/home/user/.system/diamond/2" : "HELP",
     "/home/user/.system/diamond/3" : "BURN",
     "/home/user/.system/diamond/4" : "RANDOMIZATION",
@@ -156,7 +161,6 @@ const lockedFiles = {
     "/home/user/.system/diamond/8" : "PASSPORT",
     "/home/user/.system/diamond/9" : "TRAPPED",
     "/home/user/.system/diamond/10" : "UNSENT",
-    "/home/user/.system/club/1" : "PHANTOM",
     "/home/user/.system/club/2" : "RUNNING",
     "/home/user/.system/club/3" : "ASSORTMENT",
     "/home/user/.system/club/4" : "DESCENDANT",
@@ -166,6 +170,7 @@ const lockedFiles = {
     "/home/user/.system/club/8" : "PARTION",
     "/home/user/.system/club/9" : "APPARITION",
     "/home/user/.system/club/10" : "GHOUL",
+    "/home/user/.system/heart/2" : "CHAIN"
 
 }
 const unlockedFiles = new Set();
@@ -317,28 +322,53 @@ function runCommand(command){
         return;
     }
 
+
     if (cleanCommand.startsWith("cd")) {
-        const destination = command.trim().slice(2).trim(); //takes out the cd part of it giving just file destination
-        if (destination == ""){
+        const destination = command.trim().slice(2).trim();
+        
+        // 1. Default to home if destination is empty
+        if (destination === "") {
             currentPath = "/home/user";
             return;
         }
-        let newPath;
-        if (destination.startsWith("/")){
-            newPath = destination;
-        } else if (destination == ".."){ //going back command
-            newPath = "/home/user";
+
+        // 2. Resolve the raw target path
+        let rawPath;
+        if (destination.startsWith("/")) {
+            rawPath = destination;
         } else {
-            newPath = currentPath + "/" + destination;
+            // Ensure no double slashes when joining
+            const base = currentPath.endsWith("/") ? currentPath.slice(0, -1) : currentPath;
+            rawPath = base + "/" + destination;
         }
 
-        if (getDirectory(newPath) == null){
-            printLine("bash: cd: " + destination + " : No such directory");
+        // 3. Normalize the path (handles '..', '.', and extra slashes)
+        const segments = rawPath.split("/");
+        const stack = [];
+        
+        for (const segment of segments) {
+            if (segment === "" || segment === ".") {
+                continue; // Ignore empty segments and current directory (.)
+            } else if (segment === "..") {
+                stack.pop(); // Go up one level
+            } else {
+                stack.push(segment);
+            }
+        }
+        
+        // Reconstruct the normalized absolute path (always starts with /)
+        const newPath = "/" + stack.join("/");
+
+        // 4. Validate if the directory exists
+        if (getDirectory(newPath) == null) {
+            printLine("bash: cd: " + destination + ": No such file or directory");
             return;
         }
-        currentPath = newPath; //changes current path to the new path after running cd
+
+        currentPath = newPath;
         return;
     }
+
     if(cleanCommand.startsWith("cat ")){
         const filename = command.trim().slice(4).trim(); //same thing as destination basically, cuts out the "cat " and puts it in a local constant
         const filePath = currentPath + "/" + filename;
@@ -353,7 +383,7 @@ function runCommand(command){
             lockedFiles[filePath] !== undefined &&
             !unlockedFiles.has(filePath)
         ) {
-            printLine("cat: " + filename + ": Permission denied");
+            printLine("cat: " + filename + ": Permission denied, use 'unlock <filename>' to unlock any file with a password.");
             return;
         }
 
