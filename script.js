@@ -10,7 +10,9 @@ const filesystem = { //as it seems this is the filesystem.
     "/home/user/Documents": ["notes.txt"],
     "/home/user/.system" : ["access.log", "session.txt", "diamond", "club"],
     "/home/user/.system/diamond" : ["1","2","3", "4","5", "6", "7", "8", "9", "10"],
-    "/home/user/.system/club" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"]
+    "/home/user/.system/club" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"],
+    "/home/user/.system/heart" : ["1","2","3","4","5","6","7","8","9","10"],
+    "/home/user/.system/spade" : ["1","2","3","4","5","6","7","8","9","10"]
 };
 const files = {
     "/home/user/Documents/notes.txt" : 
@@ -18,7 +20,7 @@ const files = {
         "This terminal has kept itself running..\n"+
         "The history is fresh but someone's been using the account.\n\n" +
         "There's something here.\n\n"+
-        "- R",
+        "- I",
     "/home/user/.system/access.log" :
         "3:14:09 - session started\n"+
         "3:14:12 - user authentication bypassed\n" +
@@ -38,7 +40,8 @@ const files = {
         "Welcome.\n\n" +
         "Begin.\n\n" +
         "Challenge, 1 of Diamonds. Game start.\n" +
-        "42325371", //using a phone if you type these in you get the words HELP
+        "42325371\n" +
+        "Phone.", //using a phone if you type these in you get the words HELP
     "/home/user/.system/diamond/2":
         "\nChallenge, 2 of Diamonds. Game start.\n"+
         "Hello. We have not properly met before.\n"+
@@ -49,7 +52,7 @@ const files = {
         "Of course I would never spoil it. Im too kind.\n\n" + 
         "Ah yes access to the 'diamond 3 file' or whatever, the code is BURN",
     "/home/user/.system/diamond/3":
-        "\nSYSTEM: This set of challenges is the easiest of the four, please refer to us as Enigma.\n\n"+
+        "\nSYSTEM: This set of challenges is the easiest of the four, please refer to us as the Initiative.\n\n"+
         "Challenge, 3 of Diamonds. Game start.\n"+
         "UkFORE9NSVpBVElPTg==", //base64 encoding
     "/home/user/.system/diamond/4":
@@ -89,8 +92,10 @@ const files = {
         "It is called the _ _ _ _ _ _ Project.", //Unsent project
     "/home/user/.system/diamond/10" :
         "\n Challenge, 10 of Diamonds. Game start.\n" +
-        "Final challenge of the numbers, what do you think the code is?" +
+        "Final challenge of the Diamond numbers, what do you think the code is?" +
         "Where is Kento Nanami from?", //OSINT
+
+
     "/home/user/.system/club/1" : 
         "\n Challenge, 1 of Clubs. Game start.\n" + //steaganography
         "Check the image titled 'club 1' in the git repo here: https://github.com/great12theworld/InitiativeHack",
@@ -111,6 +116,33 @@ const files = {
         "Gloriosus clemens\n" +
         "Conseruator sapientissimus\n"+
         "Conseruator\n",
+    "/home/user/.system/club/7" :
+        "\n Challenge 7 of Clubs. Game start.\n" +//each of the first few prime numbers is assigned to a spesific letter which when converted becomed a message, in this case the code.
+        "53 2 6171234743\n\n" +
+        "Primes.",
+    "/home/user/.system/club/8" : 
+        "\n Challenge 8 of Clubs. Game start.\n" +
+        "The time during which a celestial body becomes visible from Earth",
+    "/home/user/.system/club/9" :
+        "\n Challenge 9 of Clubs. Game start.\n"+ 
+        "The name of a popular anime, critics and viewers alike both come to the conclusion that the manga is better than the anime\n" +
+        "Relating to the password of DIAMOND 1, and similar in context, idea and physical what is it?", //more OSINT
+    "/home/user/.system/club/10" : 
+        "\n Challenge 10 of Clubs. Game start. \n" + 
+        "Final challenge of the Club numbers\n"+
+        "There are 3 types of people, liars, truth tellers, and normals (those who could be either.)\n"+
+        "People A, B, and C exsist. there is one liar, one truth teller and one normal.\n"+
+        "A says: 'I am a Liar, or B is a truth teller.'\n"+
+        "B says: 'A is a liar'\n"+
+        "C says: 'I am a liar'\n" +
+        "Enter the solution as letters in :(_ _ _) with Liar first, truth teller second and normal third.", //Solution is BAC.
+        //future encryptions: four squares encryption, dCode
+        //
+
+    "/home/user/.system/heart/1" :
+        "\n Challenge 1 of Hearts. Game start.\n" +
+        "This set of challenges is significantly more difficult and applies a seperate format.\n"+
+        "Please account for these difficulties. Ruth is not here to save you. The initiatve will not save you.",
 }
 const lockedFiles = {
     "/home/user/.system/session.txt" : "PHANTOM",
@@ -131,7 +163,9 @@ const lockedFiles = {
     "/home/user/.system/club/5" : "WELCOMING",
     "/home/user/.sysetm/club/6" : "ETERNITY",
     "/home/user/.system/club/7" : "OASIS",
-    "/home/user/.system/club/8" : "PARTION"
+    "/home/user/.system/club/8" : "PARTION",
+    "/home/user/.system/club/9" : "APPARITION",
+    "/home/user/.system/club/10" : "GHOUL",
 
 }
 const unlockedFiles = new Set();
