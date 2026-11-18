@@ -147,10 +147,12 @@ const files = {
         "Please go to the github repository to get the code for the next challenge found here: ",
     "/home/user/.system/heart/2" :
         "\n Challenge 2 of Hearts. Game start.\n" +
-        "Please refer to the 2 of Hearts file.",
+        "Please refer to the 2 of Hearts file.", //four squares encryption.
     "/home/user/.system/heart/3" : 
-        "\n Challenge 3 of Hearts. Game start\n" + 
-        "Please refer to teh 3 of Hearts file.",
+        "\n Challenge 3 of Hearts. Game start.\n" + 
+        "Please refer to the 3 of Hearts file.", //hexagram encoding
+    "/home/user/.system/heart/4" :
+        "\n Challenge 4 of Hearts. Game start.\n"
 }
 const lockedFiles = {
     "/home/user/.system/session.txt" : "PHANTOM",
@@ -174,7 +176,9 @@ const lockedFiles = {
     "/home/user/.system/club/10" : "GHOUL",
     "/home/user/.system/heart/2" : "CHAIN",
     "/home/user/.system/heart/3" : "NIGHTINGALE",
-    "/home/user/.system/heart/4" : "TEMPTATION"
+    "/home/user/.system/heart/4" : "TEMPTATION",
+    "/home/user/.system/heart/5" : "PLATTER", //Beuafort cipher, then base64, which is a riddle, the answer is platter
+
 
 }
 const unlockedFiles = new Set();

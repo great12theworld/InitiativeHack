@@ -1,0 +1,5 @@
+Interpret:
+
+䷕䷆䷡䷥䷜䷦䷔䷠䷘䷗䷉䷥䷈䷆䷵䷩䷛䷆䷱䷩䷛䷶䷹䷳䷈䷆䷽䷦䷈䷆䷭䷩䷙䷇䷌䷠䷚䷖䷸䷠䷝䷆䷡䷩䷜䷲䷁䷷䷛䷷䷉䷬䷙䷂䷰䷠䷝䷶䷡䷯䷈䷆䷱䷯䷛䷶䷬䷠䷛䷆䷥䷫䷙䷒䷁䷵䷜䷲䷰䷠䷘䷖䷹䷤䷈䷆䷅䷣䷝䷂䷁䷬䷚䷖䷭䷥䷈䷇䷕䷳䷋䷂䷁䷢䷝䷗䷐䷠䷝䷆䷡䷥䷞䷒䷁䷡䷜䷦䷔䷠䷛䷦䷽䷴䷈䷇䷕䷳䷋䷢䷁䷔䷑䷔䷵䷐䷕䷄䷅䷔䷒䷔䷽䷎
+
+SYSTEM: if this is bugged let me know on slack, there should be a bunch of line symbols with holes in them.
