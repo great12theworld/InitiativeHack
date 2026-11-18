@@ -158,7 +158,19 @@ const files = {
         "\n Challenge 5 of Hearts. Game start.\n" +
         "SYSTEM: This will be the last of the hearts as it is quite difficult to make high quality puzzles that have a solid level of depth at this difficulty level.\n" +
         "SYSTEM: I had a very spesific vision for this difficulty, There is more to come.\n" +
-        "Atreusre."
+        "Atreusre.",
+    "/home/user/.system/spade/1" :
+        "\n Challenge 1 of Spades. Game start.\n" + 
+        "...\n" +
+        "...This will be difficult.\n\n" +
+        "There will not be hints.\n\n" +
+        "Don't expect mercy.\n" +
+        "Refer to 1 of Spades file.",
+    "/home/user/.system/spade/2" : 
+        "\n Challenge 2 of Spades. Game start. \n" + 
+        "You.. made it? damn.\n" +
+        "Good job.\n" +
+        "Refer to 2 of Spades file.",
 }
 const lockedFiles = {
     "/home/user/.system/session.txt" : "PHANTOM",
@@ -185,6 +197,8 @@ const lockedFiles = {
     "/home/user/.system/heart/4" : "TEMPTATION",
     "/home/user/.system/heart/5" : "PLATTER", //Beuafort cipher, then base64, which is a riddle, the answer is platter
     "/home/user/.system/heart/6" : "TREASURE",
+    "/home/user/.system/spade/2" : "SHINY",
+    "/home/user/.system/spade/3" : ""
 
 
 }

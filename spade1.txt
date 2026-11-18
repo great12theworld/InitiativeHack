@@ -1,0 +1,568 @@
+flibbertigibbet, snollygoster, widdershins, bumfuzzle, cattywampus, gardyloo, taradiddle, collywobbles, loblolly, gobbledygook,
+
+kerfuffle, hullabaloo, brouhaha, shenanigans, skedaddle, bamboozle, hornswoggle, rambunctious, cantankerous, discombobulate,
+
+flummox, gobsmacked, higgledy-piggledy, hodgepodge, hoodwink, jabberwocky, lickety-split, malarkey, mugwump, namby-pamby,
+
+nincompoop, persnickety, poppycock, rigmarole, scalawag, whippersnapper, wishy-washy, zany, zig-zag, blatherskite,
+
+boondoggle, folderol, frabjous, galumph, gimcrack, haberdashery, hocus-pocus, humdrum, jiggery-pokery, klutz,
+
+lollapalooza, mumpsimus, ninnyhammer, pumpernickel, quibble, ragamuffin, snickerdoodle, topsy-turvy, uffish, vorpal,
+
+bandersnatch, jubjub, manxome, tulgey, slithy, toves, gyre, gimble, wabe, mimsy,
+
+borogoves, mome, raths, outgrabe, chortle, snicker-snack, callooh, callay, brillig, beamish,
+
+splendiferous, scrumdiddlyumptious, whizzpopper, snozzcumber, frobscottle, trogglehumper, phizzwizard, vermicious, knids, oompa-loompa,
+
+hornswoggler, snozzwanger, whangdoodle, ringbeller, biffsquiggled, crodswoggle, glumptious, hopscotchy, jumbly, kiddles,
+
+lurgid, muggled, noggin-noggin, oodles, piffle, quagmire, rummage, squiffy, tiddlywinks, umbrage,
+
+vortex-blorp, wibble-wobble, xylo-zorp, yatter-blab, ziggurat-fizz, blorp, glorp, florp, snorp, zorp,
+
+quibble-quabble, fiddle-faddle, tittle-tattle, pitter-patter, knick-knack, riff-raff, mish-mash, chit-chat, ding-dong, ping-pong,
+
+sing-song, king-kong, tick-tock, flip-flop, hip-hop, tip-top, clip-clop, drip-drop, slip-slop, snip-snap,
+
+criss-cross, dingle-dangle, fiddle-dee-dee, hee-haw, hoity-toity, hurly-burly, itsy-bitsy, teeny-weeny, lovey-dovey, mumbo-jumbo,
+
+nitty-gritty, okey-dokey, pell-mell, razzle-dazzle, roly-poly, super-duper, teeter-totter, walkie-talkie, willy-nilly, boogie-woogie,
+
+argle-bargle, artsy-fartsy, bibbity-bobbity-boo, boing-boing, chock-a-block, double-trouble, easy-peasy, fancy-schmancy, fuzzy-wuzzy, gangway-bangway,
+
+hanky-panky, helter-skelter, hokey-pokey, hubba-hubba, jeepers-creepers, kowtow, lalapalooza, loosey-goosey, mojo-dojo, namby-pamby,
+
+ooey-gooey, peeping-tom, pooh-pooh, rinky-dink, rumble-tumble, shilly-shally, silly-billy, snuggly-wuggly, teeny-tiny, ultra-vultra,
+
+vroom-vroom, wheeler-dealer, yadda-yadda, zoot-suit, blibber-blabber, crinkle-crankle, draggle-tail, flim-flam, gilly-gally, hob-nob,
+
+iggledy-piggledy, jingle-jangle, kittle-kattle, lippity-loppity, mingle-mangle, niddle-noddle, piddle-paddle, quiddle-quaddle, riddle-raddle, snick-snack,
+
+tangle-wangle, viddle-vaddle, wiggle-waggle, zingle-zangle, flibberty-flabberty, snicker-snacker, bluster-muster, clatter-splatter, dither-slither, flutter-mutter,
+
+glimmer-shimmer, huff-puff, jitter-twitter, lumber-slumber, mumble-jumble, natter-chatter, putter-stutter, quiver-shiver, rumble-grumble, scurry-flurry,
+
+tumble-bumble, wheeze-sneeze, yap-flap, zoom-boom, bazzle-frazzle, crunkle-spunkle, dweeble-fweeble, frizzle-frazzle, grizzle-grazzle, hizzle-hazzle,
+
+jizzle-jazzle, krizzle-krazzle, lizzle-lazzle, mizzle-mazzle, nizzle-nazzle, pizzle-pazzle, quizzle-quazzle, rizzle-razzle, sizzle-sazzle, tizzle-tazzle,
+
+vizzle-vazzle, wizzle-wazzle, zizzle-zazzle, blonk, clonk, donk, flonk, glonk, honk, lonk,
+
+monk-bonk, plonk, quonk, ronk, slonk, tonk, vonk, wonk, zonk, zlonk,
+
+bimp, dimp, flimp, glimp, himp, jimp, klimp, limp-wimp, mimp, nimp,
+
+pimp-shrimp, quimp, rimp, slimp, timp, vimp, wimp, zimp, blimp-flimp, skimp-wimp,
+
+boggle-woggle, coggle-moggle, doggle-foggle, foggle-boggle, goggle-boggle, hoggle-boggle, joggle-boggle, koggle-boggle, loggle-boggle, moggle-boggle,
+
+noggle-boggle, poggle-boggle, quoggle-boggle, roggle-boggle, soggle-boggle, toggle-boggle, voggle-boggle, woggle-boggle, zoggle-boggle, zloggle-boggle,
+
+splish-splash, squish-squash, swish-swash, trish-trash, wish-wash, blish-blash, clish-clash, drish-drash, flish-flash, glish-glash,
+
+krish-krash, plish-plash, slish-slash, smish-smash, snish-snash, spish-spash, stish-stash, twish-twash, whish-whash, zish-zash,
+
+bamboozlement, flabbergastation, discombobulation, hornswogglement, kerfufflement, skedaddlement, whatchamacallit, thingamajig, thingamabob, doohickey,
+
+gizmo, gadget, widget, doodad, whosit, whatsit, whoozis, jigger, majigger, dinglehopper,
+
+snarfblatt, flummery, balderdash, codswallop, tommyrot, fiddlesticks, horsefeathers, bosh, pishposh, phooey,
+
+applesauce, bananas, hooey, tripe, bunkum, eyewash, hogwash, flapdoodle, drivel, twaddle,
+
+gibberish, babble, prattle, blather, jabber, patter, natter, chatter, clatter, splatter,
+
+spatter, shatter, tatter, batter, fatter, hatter, latter, matter, platter, scatter,
+
+bingle-bongle, dingle-dongle, fingle-fongle, gingle-gongle, hingle-hongle, jingle-jongle, kingle-kongle, lingle-longle, mingle-mongle, ningle-nongle,
+
+pingle-pongle, quingle-quongle, ringle-rongle, single-songle, tingle-tongle, vingle-vongle, wingle-wongle, zingle-zongle, z্লingle-zlongle, shming-shmong,
+
+flibber-jabber, snicker-bicker, bluster-fluster, clatter-chatter, dither-wither, flutter-splutter, glimmer-dimmer, huff-scuff, jitter-skitter, lumber-number,
+
+mumble-fumble, natter-spatter, putter-mutter, quiver-sliver, rumble-stumble, scurry-hurry, tumble-crumble, wheeze-squeeze, yap-snap, zoom-gloom,
+
+zorkle, borkle, dorkle, forkle, gorkle, horkle, jorkle, korkle, lorkle, morkle,
+
+norkle, porkle, quorkle, rorkle, sorkle, torkle, vorkle, workle, zorkle-blork, snorkle-bork,
+
+flibberty-giblet, snolly-golly, widdershin-bin, bumfuzzle-muzzle, catty-wampus-pampus, gardy-loo-hoo, tara-diddle-fiddle, colly-wobble-gobble, lob-lolly-pop, gobble-dy-gook-spook,
+
+ker-fuffle-shuffle, hulla-baloo-zoo, brou-haha-ta-ta, shenani-gans-pans, ske-daddle-paddle, bam-boozle-snoozle, horn-swoggle-toggle, ram-bunctious-functious, can-tankerous-spankerous, discom-bobulate-globulate,
+
+flum-mox-box, gob-smacked-whacked, higgledy-piggledy-jiggledy, hodge-podge-lodge, hood-wink-blink, jabber-wocky-socky, lickety-split-bit, ma-larkey-sparky, mug-wump-bump, namby-pamby-bamby,
+
+nincom-poop-scoop, per-snickety-rickety, poppy-cock-sock, rig-marole-mole, scala-wag-bag, whipper-snapper-clapper, wishy-washy-squashy, zany-brainy, zig-zag-swag, blather-skite-kite,
+
+boon-doggle-boggle, fol-derol-roll, frab-jous-spous, ga-lumph-thump, gim-crack-snack, haber-dashery-mashery, hocus-pocus-crocus, hum-drum-strum, jiggery-pokery-jokery, klutz-putz,
+
+lolla-palooza-snooza, mump-simus-primus, ninny-hammer-slammer, pumper-nickel-pickle, quibble-dribble, raga-muffin-puffin, snicker-doodle-poodle, topsy-turvy-curvy, uffish-puffish, vorpal-dorpal,
+
+bander-snatch-hatch, jub-jub-rub, manx-ome-gnome, tul-gey-bulgey, sli-thy-blithy, toves-groves, gyre-spire, gim-ble-thimble, wa-be-babe, mim-sy-whimsy,
+
+boro-goves-stoves, mome-home, raths-baths, out-grabe-babe, chor-tle-snortle, snicker-snack-whack, cal-looh-moo, cal-lay-hay, bril-lig-twig, beam-ish-gleamish,
+
+splendi-ferous-biferous, scrum-diddly-umptious-bumptious, whizz-popper-stopper, snozz-cumber-slumber, frobs-cottle-bottle, troggle-humper-thumper, phizz-wizard-lizard, vermi-cious-delicious, knids-skids, oompa-loompa-zoompa,
+
+florp-zorp, blib-blab, snick-snock, quib-quab, dwee-bop, zing-zang, plip-plop, glip-glop, skib-skab, trib-trab,
+
+wom-pum, zom-pum, flom-pum, glom-pum, blom-pum, clom-pum, drom-pum, from-pum, grom-pum, hrom-pum,
+
+jrom-pum, krom-pum, lrom-pum, mrom-pum, nrom-pum, prom-pum, quom-pum, srom-pum, trom-pum, vrom-pum,
+
+bazz-fuzz, dazz-muzz, fazz-buzz, gazz-luzz, hazz-puzz, jazz-ruzz, kazz-suzz, lazz-tuzz, mazz-vuzz, nazz-wuzz,
+
+pazz-yuzz, quazz-zuzz, razz-bazz, sazz-cazz, tazz-dazz, vazz-fazz, wazz-gazz, yazz-hazz, zazz-jazz, zplazz-frazz,
+
+shnook-blook, flook-glook, plook-slook, splook-stook, trook-wrook, zrook-brook, crook-drook, frook-grook, hrook-jrook, krook-lrook,
+
+mrook-nrook, prook-quook, srook-trook, vrook-zrook, bingle-bangle-bungle, dingle-dangle-dungle, fingle-fangle-fungle, gingle-gangle-gungle, hingle-hangle-hungle, jingle-jangle-jungle,
+
+kingle-kangle-kungle, lingle-langle-lungle, mingle-mangle-mungle, ningle-nangle-nungle, pingle-pangle-pungle, quingle-quangle-quungle, ringle-rangle-rungle, single-sangle-sungle, tingle-tangle-tungle, vingle-vangle-vungle,
+
+wingle-wangle-wungle, zingle-zangle-zungle, blibberty-blabberty-blubberty, flibberty-flabberty-flubberty, snickerty-snackerty-snuckerty, quibberty-quabberty-quubberty, dweeberty-dwabberty-dwubberty, zingerty-zangerty-zungerty, plipperty-plapperty-plupperty, glipperty-glapperty-glupperty,
+
+skibberty-skabberty-skubberty, tribberty-trabberty-trubberty, womperty-wamperty-wumperty, zomperty-zamperty-zumperty, flomperty-flamperty-flumperty, glomperty-glamperty-glumperty, blomperty-blamperty-blumperty, clomperty-clamperty-clumperty, dromperty-dramperty-drumperty, fromperty-framperty-frumperty,
+
+gromperty-gramperty-grumperty, hromperty-hramperty-hrumperty, jromperty-jramperty-jrumperty, kromperty-kramperty-krumperty, lromperty-lramperty-lrumperty, mromperty-mramperty-mrumperty, nromperty-nramperty-nrumperty, promperty-pramperty-prumperty, quomperty-quamperty-quumperty, sromperty-sramperty-srumperty,
+
+tromperty-tramperty-trumperty, vromperty-vramperty-vrumperty, zorkle-borkle-dorkle, forkle-gorkle-horkle, jorkle-korkle-lorkle, morkle-norkle-porkle, quorkle-rorkle-sorkle, torkle-vorkle-workle, zorkle-florkle-blorkle, snorkle-sporkle-storkle,
+
+flibbertigibbet-snollygoster, widdershins-bumfuzzle, cattywampus-gardyloo, taradiddle-collywobbles, loblolly-gobbledygook, kerfuffle-hullabaloo, brouhaha-shenanigans, skedaddle-bamboozle, hornswoggle-rambunctious, cantankerous-discombobulate,
+
+flummox-gobsmacked, higgledy-piggledy-hodgepodge, hoodwink-jabberwocky, lickety-split-malarkey, mugwump-namby-pamby, nincompoop-persnickety, poppycock-rigmarole, scalawag-whippersnapper, wishy-washy-zany, zig-zag-blatherskite,
+boondoggle-folderol, frabjous-galumph, gimcrack-haberdashery, hocus-pocus-humdrum, jiggery-pokery-klutz, lollapalooza-mumpsimus, ninnyhammer-pumpernickel, quibble-ragamuffin, snickerdoodle-topsy-turvy, uffish-vorpal,
+bandersnatch-jubjub, manxome-tulgey, slithy-toves, gyre-gimble, wabe-mimsy, borogoves-mome, raths-outgrabe, chortle-snicker-snack, callooh-callay, brillig-beamish,splendiferous-scrumdiddlyumptious, whizzpopper-snozzcumber, frobscottle-trogglehumper, phizzwizard-vermicious, knids-oompa-loompa, hornswoggler-snozzwanger, whangdoodle-ringbeller, biffsquiggled-crodswoggle, glumptious-hopscotchy, jumbly-kiddles,
+
+lurgid-muggled, noggin-noggin-oodles, piffle-quagmire, rummage-squiffy, tiddlywinks-umbrage, vortex-blorp-wibble-wobble, xylo-zorp-yatter-blab, ziggurat-fizz-blorp, glorp-florp-snorp-zorp, end-of-nonsense-zorp.
+flibbertigibbet, snollygoster, widdershins, bumfuzzle, cattywampus, gardyloo, taradiddle, collywobbles, loblolly, gobbledygook,
+
+kerfuffle, hullabaloo, brouhaha, shenanigans, skedaddle, bamboozle, hornswoggle, rambunctious, cantankerous, discombobulate,
+
+flummox, gobsmacked, higgledy-piggledy, hodgepodge, hoodwink, jabberwocky, lickety-split, malarkey, mugwump, namby-pamby,
+
+nincompoop, persnickety, poppycock, rigmarole, scalawag, whippersnapper, wishy-washy, zany, zig-zag, blatherskite,
+
+boondoggle, folderol, frabjous, galumph, gimcrack, haberdashery, hocus-pocus, humdrum, jiggery-pokery, klutz,
+
+lollapalooza, mumpsimus, ninnyhammer, pumpernickel, quibble, ragamuffin, snickerdoodle, topsy-turvy, uffish, vorpal,
+
+bandersnatch, jubjub, manxome, tulgey, slithy, toves, gyre, gimble, wabe, mimsy,
+
+borogoves, mome, raths, outgrabe, chortle, snicker-snack, callooh, callay, brillig, beamish,
+
+splendiferous, scrumdiddlyumptious, whizzpopper, snozzcumber, frobscottle, trogglehumper, phizzwizard, vermicious, knids, oompa-loompa,
+
+hornswoggler, snozzwanger, whangdoodle, ringbeller, biffsquiggled, crodswoggle, glumptious, hopscotchy, jumbly, kiddles,
+
+lurgid, muggled, noggin-noggin, oodles, piffle, quagmire, rummage, squiffy, tiddlywinks, umbrage,
+
+vortex-blorp, wibble-wobble, xylo-zorp, yatter-blab, ziggurat-fizz, blorp, glorp, florp, snorp, zorp,
+
+quibble-quabble, fiddle-faddle, tittle-tattle, pitter-patter, knick-knack, riff-raff, mish-mash, chit-chat, ding-dong, ping-pong,
+
+sing-song, king-kong, tick-tock, flip-flop, hip-hop, tip-top, clip-clop, drip-drop, slip-slop, snip-snap,
+
+criss-cross, dingle-dangle, fiddle-dee-dee, hee-haw, hoity-toity, hurly-burly, itsy-bitsy, teeny-weeny, lovey-dovey, mumbo-jumbo,
+
+nitty-gritty, okey-dokey, pell-mell, razzle-dazzle, roly-poly, super-duper, teeter-totter, walkie-talkie, willy-nilly, boogie-woogie,
+
+argle-bargle, artsy-fartsy, bibbity-bobbity-boo, boing-boing, chock-a-block, double-trouble, easy-peasy, fancy-schmancy, fuzzy-wuzzy, gangway-bangway,
+
+hanky-panky, helter-skelter, hokey-pokey, hubba-hubba, jeepers-creepers, kowtow, lalapalooza, loosey-goosey, mojo-dojo, namby-pamby,
+
+ooey-gooey, peeping-tom, pooh-pooh, rinky-dink, rumble-tumble, shilly-shally, silly-billy, snuggly-wuggly, teeny-tiny, ultra-vultra,
+
+vroom-vroom, wheeler-dealer, yadda-yadda, zoot-suit, blibber-blabber, crinkle-crankle, draggle-tail, flim-flam, gilly-gally, hob-nob,
+
+iggledy-piggledy, jingle-jangle, kittle-kattle, lippity-loppity, mingle-mangle, niddle-noddle, piddle-paddle, quiddle-quaddle, riddle-raddle, snick-snack,
+
+tangle-wangle, viddle-vaddle, wiggle-waggle, zingle-zangle, flibberty-flabberty, snicker-snacker, bluster-muster, clatter-splatter, dither-slither, flutter-mutter,
+
+glimmer-shimmer, huff-puff, jitter-twitter, lumber-slumber, mumble-jumble, natter-chatter, putter-stutter, quiver-shiver, rumble-grumble, scurry-flurry,
+
+tumble-bumble, wheeze-sneeze, yap-flap, zoom-boom, bazzle-frazzle, crunkle-spunkle, dweeble-fweeble, frizzle-frazzle, grizzle-grazzle, hizzle-hazzle,
+
+jizzle-jazzle, krizzle-krazzle, lizzle-lazzle, mizzle-mazzle, nizzle-nazzle, pizzle-pazzle, quizzle-quazzle, rizzle-razzle, sizzle-sazzle, tizzle-tazzle,
+
+vizzle-vazzle, wizzle-wazzle, zizzle-zazzle, blonk, clonk, donk, flonk, glonk, honk, lonk,
+
+monk-bonk, plonk, quonk, ronk, slonk, tonk, vonk, wonk, zonk, zlonk,
+
+bimp, dimp, flimp, glimp, himp, jimp, klimp, limp-wimp, mimp, nimp,
+
+pimp-shrimp, quimp, rimp, slimp, timp, vimp, wimp, zimp, blimp-flimp, skimp-wimp,
+
+boggle-woggle, coggle-moggle, doggle-foggle, foggle-boggle, goggle-boggle, hoggle-boggle, joggle-boggle, koggle-boggle, loggle-boggle, moggle-boggle,
+
+noggle-boggle, poggle-boggle, quoggle-boggle, roggle-boggle, soggle-boggle, toggle-boggle, voggle-boggle, woggle-boggle, zoggle-boggle, zloggle-boggle,
+
+splish-splash, squish-squash, swish-swash, trish-trash, wish-wash, blish-blash, clish-clash, drish-drash, flish-flash, glish-glash,
+
+krish-krash, plish-plash, slish-slash, smish-smash, snish-snash, spish-spash, stish-stash, twish-twash, whish-whash, zish-zash,
+
+bamboozlement, flabbergastation, discombobulation, hornswogglement, kerfufflement, skedaddlement, whatchamacallit, thingamajig, thingamabob, doohickey,
+
+gizmo, gadget, widget, doodad, whosit, whatsit, whoozis, jigger, majigger, dinglehopper,
+
+snarfblatt, flummery, balderdash, codswallop, tommyrot, fiddlesticks, horsefeathers, bosh, pishposh, phooey,
+
+applesauce, bananas, hooey, tripe, bunkum, eyewash, hogwash, flapdoodle, drivel, twaddle,
+
+gibberish, babble, prattle, blather, jabber, patter, natter, chatter, clatter, splatter,
+
+spatter, shatter, tatter, batter, fatter, hatter, latter, matter, platter, scatter,
+
+bingle-bongle, dingle-dongle, fingle-fongle, gingle-gongle, hingle-hongle, jingle-jongle, kingle-kongle, lingle-longle, mingle-mongle, ningle-nongle,
+
+pingle-pongle, quingle-quongle, ringle-rongle, single-songle, tingle-tongle, vingle-vongle, wingle-wongle, zingle-zongle, z্লingle-zlongle, shming-shmong,
+
+flibber-jabber, snicker-bicker, bluster-fluster, clatter-chatter, dither-wither, flutter-splutter, glimmer-dimmer, huff-scuff, jitter-skitter, lumber-number,
+
+mumble-fumble, natter-spatter, putter-mutter, quiver-sliver, rumble-stumble, scurry-hurry, tumble-crumble, wheeze-squeeze, yap-snap, zoom-gloom,
+
+zorkle, borkle, dorkle, forkle, gorkle, horkle, jorkle, korkle, lorkle, morkle,
+
+norkle, porkle, quorkle, rorkle, sorkle, torkle, vorkle, workle, zorkle-blork, snorkle-bork,
+
+flibberty-giblet, snolly-golly, widdershin-bin, bumfuzzle-muzzle, catty-wampus-pampus, gardy-loo-hoo, tara-diddle-fiddle, colly-wobble-gobble, lob-lolly-pop, gobble-dy-gook-spook,
+
+ker-fuffle-shuffle, hulla-baloo-zoo, brou-haha-ta-ta, shenani-gans-pans, ske-daddle-paddle, bam-boozle-snoozle, horn-swoggle-toggle, ram-bunctious-functious, can-tankerous-spankerous, discom-bobulate-globulate,
+
+flum-mox-box, gob-smacked-whacked, higgledy-piggledy-jiggledy, hodge-podge-lodge, hood-wink-blink, jabber-wocky-socky, lickety-split-bit, ma-larkey-sparky, mug-wump-bump, namby-pamby-bamby,
+
+nincom-poop-scoop, per-snickety-rickety, poppy-cock-sock, rig-marole-mole, scala-wag-bag, whipper-snapper-clapper, wishy-washy-squashy, zany-brainy, zig-zag-swag, blather-skite-kite,
+
+boon-doggle-boggle, fol-derol-roll, frab-jous-spous, ga-lumph-thump, gim-crack-snack, haber-dashery-mashery, hocus-pocus-crocus, hum-drum-strum, jiggery-pokery-jokery, klutz-putz,
+
+lolla-palooza-snooza, mump-simus-primus, ninny-hammer-slammer, pumper-nickel-pickle, quibble-dribble, raga-muffin-puffin, snicker-doodle-poodle, topsy-turvy-curvy, uffish-puffish, vorpal-dorpal,
+
+bander-snatch-hatch, jub-jub-rub, manx-ome-gnome, tul-gey-bulgey, sli-thy-blithy, toves-groves, gyre-spire, gim-ble-thimble, wa-be-babe, mim-sy-whimsy,
+
+boro-goves-stoves, mome-home, raths-baths, out-grabe-babe, chor-tle-snortle, snicker-snack-whack, cal-looh-moo, cal-lay-hay, bril-lig-twig, beam-ish-gleamish,
+
+splendi-ferous-biferous, scrum-diddly-umptious-bumptious, whizz-popper-stopper, snozz-cumber-slumber, frobs-cottle-bottle, troggle-humper-thumper, phizz-wizard-lizard, vermi-cious-delicious, knids-skids, oompa-loompa-zoompa,
+
+florp-zorp, blib-blab, snick-snock, quib-quab, dwee-bop, zing-zang, plip-plop, glip-glop, skib-skab, trib-trab,
+
+wom-pum, zom-pum, flom-pum, glom-pum, blom-pum, clom-pum, drom-pum, from-pum, grom-pum, hrom-pum,
+
+jrom-pum, krom-pum, lrom-pum, mrom-pum, nrom-pum, prom-pum, quom-pum, srom-pum, trom-pum, vrom-pum,
+
+bazz-fuzz, dazz-muzz, fazz-buzz, gazz-luzz, hazz-puzz, jazz-ruzz, kazz-suzz, lazz-tuzz, mazz-vuzz, nazz-wuzz,
+
+pazz-yuzz, quazz-zuzz, razz-bazz, sazz-cazz, tazz-dazz, vazz-fazz, wazz-gazz, yazz-hazz, zazz-jazz, zplazz-frazz,
+
+shnook-blook, flook-glook, plook-slook, splook-stook, trook-wrook, zrook-brook, crook-drook, frook-grook, hrook-jrook, krook-lrook,
+
+mrook-nrook, prook-quook, srook-trook, vrook-zrook, bingle-bangle-bungle, dingle-dangle-dungle, fingle-fangle-fungle, gingle-gangle-gungle, hingle-hangle-hungle, jingle-jangle-jungle,
+
+kingle-kangle-kungle, lingle-langle-lungle, mingle-mangle-mungle, ningle-nangle-nungle, pingle-pangle-pungle, quingle-quangle-quungle, ringle-rangle-rungle, single-sangle-sungle, tingle-tangle-tungle, vingle-vangle-vungle,
+
+wingle-wangle-wungle, zingle-zangle-zungle, blibberty-blabberty-blubberty, flibberty-flabberty-flubberty, snickerty-snackerty-snuckerty, quibberty-quabberty-quubberty, dweeberty-dwabberty-dwubberty, zingerty-zangerty-zungerty, plipperty-plapperty-plupperty, glipperty-glapperty-glupperty,
+
+skibberty-skabberty-skubberty, tribberty-trabberty-trubberty, womperty-wamperty-wumperty, zomperty-zamperty-zumperty, flomperty-flamperty-flumperty, glomperty-glamperty-glumperty, blomperty-blamperty-blumperty, clomperty-clamperty-clumperty, dromperty-dramperty-drumperty, fromperty-framperty-frumperty,
+
+gromperty-gramperty-grumperty, hromperty-hramperty-hrumperty, jromperty-jramperty-jrumperty, kromperty-kramperty-krumperty, lromperty-lramperty-lrumperty, mromperty-mramperty-mrumperty, nromperty-nramperty-nrumperty, promperty-pramperty-prumperty, quomperty-quamperty-quumperty, sromperty-sramperty-srumperty,
+
+tromperty-tramperty-trumperty, vromperty-vramperty-vrumperty, zorkle-borkle-dorkle, forkle-gorkle-horkle, jorkle-korkle-lorkle, morkle-norkle-porkle, quorkle-rorkle-sorkle, torkle-vorkle-workle, zorkle-florkle-blorkle, snorkle-sporkle-storkle,
+
+flibbertigibbet-snollygoster, widdershins-bumfuzzle, cattywampus-gardyloo, taradiddle-collywobbles, loblolly-gobbledygook, kerfuffle-hullabaloo, brouhaha-shenanigans, skedaddle-bamboozle, hornswoggle-rambunctious, cantankerous-discombobulate,
+
+flummox-gobsmacked, higgledy-piggledy-hodgepodge, hoodwink-jabberwocky, lickety-split-malarkey, mugwump-namby-pamby, nincompoop-persnickety, poppycock-rigmarole, scalawag-whippersnapper, wishy-washy-zany, zig-zag-blatherskite,
+
+boondoggle-folderol, frabjous-galumph, gimcrack-haberdashery, hocus-pocus-humdrum, jiggery-pokery-klutz, lollapalooza-mumpsimus, ninnyhammer-pumpernickel, quibble-ragamuffin, snickerdoodle-topsy-turvy, uffish-vorpal,
+
+bandersnatch-jubjub, manxome-tulgey, slithy-toves, gyre-gimble, wabe-mimsy, borogoves-mome, raths-outgrabe, chortle-snicker-snack, callooh-callay, brillig-beamish,
+
+splendiferous-scrumdiddlyumptious, whizzpopper-snozzcumber, frobscottle-trogglehumper, phizzwizard-vermicious, knids-oompa-loompa, hornswoggler-snozzwanger, whangdoodle-ringbeller, biffsquiggled-crodswoggle, glumptious-hopscotchy, jumbly-kiddles,
+
+lurgid-muggled, noggin-noggin-oodles, piffle-quagmire, rummage-squiffy, tiddlywinks-umbrage, vortex-blorp-wibble-wobble, xylo-zorp-yatter-blab, ziggurat-fizz-blorp, glorp-florp-snorp-zorp, end-of-nonsense-zorp.
+flibbertigibbet, snollygoster, widdershins, bumfuzzle, cattywampus, gardyloo, taradiddle, collywobbles, loblolly, gobbledygook,
+
+kerfuffle, hullabaloo, brouhaha, shenanigans, skedaddle, bamboozle, hornswoggle, rambunctious, cantankerous, discombobulate,
+
+flummox, gobsmacked, higgledy-piggledy, hodgepodge, hoodwink, jabberwocky, lickety-split, malarkey, mugwump, namby-pamby,
+
+nincompoop, persnickety, poppycock, rigmarole, scalawag, whippersnapper, wishy-washy, zany, zig-zag, blatherskite,
+
+boondoggle, folderol, frabjous, galumph, gimcrack, haberdashery, hocus-pocus, humdrum, jiggery-pokery, klutz,
+
+lollapalooza, mumpsimus, ninnyhammer, pumpernickel, quibble, ragamuffin, snickerdoodle, topsy-turvy, uffish, vorpal,
+
+bandersnatch, jubjub, manxome, tulgey, slithy, toves, gyre, gimble, wabe, mimsy,
+
+borogoves, mome, raths, outgrabe, chortle, snicker-snack, callooh, callay, brillig, beamish,
+
+splendiferous, scrumdiddlyumptious, whizzpopper, snozzcumber, frobscottle, trogglehumper, phizzwizard, vermicious, knids, oompa-loompa,
+
+hornswoggler, snozzwanger, whangdoodle, ringbeller, biffsquiggled, crodswoggle, glumptious, hopscotchy, jumbly, kiddles,
+
+lurgid, muggled, noggin-noggin, oodles, piffle, quagmire, rummage, squiffy, tiddlywinks, umbrage,
+
+vortex-blorp, wibble-wobble, xylo-zorp, yatter-blab, ziggurat-fizz, blorp, glorp, florp, snorp, zorp,
+
+quibble-quabble, fiddle-faddle, tittle-tattle, pitter-patter, knick-knack, riff-raff, mish-mash, chit-chat, ding-dong, ping-pong,
+
+sing-song, king-kong, tick-tock, flip-flop, hip-hop, tip-top, clip-clop, drip-drop, slip-slop, snip-snap,
+
+criss-cross, dingle-dangle, fiddle-dee-dee, hee-haw, hoity-toity, hurly-burly, itsy-bitsy, teeny-weeny, lovey-dovey, mumbo-jumbo,
+
+nitty-gritty, okey-dokey, pell-mell, razzle-dazzle, roly-poly, super-duper, teeter-totter, walkie-talkie, willy-nilly, boogie-woogie,
+
+argle-bargle, artsy-fartsy, bibbity-bobbity-boo, boing-boing, chock-a-block, double-trouble, easy-peasy, fancy-schmancy, fuzzy-wuzzy, gangway-bangway,
+
+hanky-panky, helter-skelter, hokey-pokey, hubba-hubba, jeepers-creepers, kowtow, lalapalooza, loosey-goosey, mojo-dojo, namby-pamby,
+
+ooey-gooey, peeping-tom, pooh-pooh, rinky-dink, rumble-tumble, shilly-shally, silly-billy, snuggly-wuggly, teeny-tiny, ultra-vultra,
+
+vroom-vroom, wheeler-dealer, yadda-yadda, zoot-suit, blibber-blabber, crinkle-crankle, draggle-tail, flim-flam, gilly-gally, hob-nob,
+
+iggledy-piggledy, jingle-jangle, kittle-kattle, lippity-loppity, mingle-mangle, niddle-noddle, piddle-paddle, quiddle-quaddle, riddle-raddle, snick-snack,
+
+tangle-wangle, viddle-vaddle, wiggle-waggle, zingle-zangle, flibberty-flabberty, snicker-snacker, bluster-muster, clatter-splatter, dither-slither, flutter-mutter,
+
+glimmer-shimmer, huff-puff, jitter-twitter, lumber-slumber, mumble-jumble, natter-chatter, putter-stutter, quiver-shiver, rumble-grumble, scurry-flurry,
+
+tumble-bumble, wheeze-sneeze, yap-flap, zoom-boom, bazzle-frazzle, crunkle-spunkle, dweeble-fweeble, frizzle-frazzle, grizzle-grazzle, hizzle-hazzle,
+
+jizzle-jazzle, krizzle-krazzle, lizzle-lazzle, mizzle-mazzle, nizzle-nazzle, pizzle-pazzle, quizzle-quazzle, rizzle-razzle, sizzle-sazzle, tizzle-tazzle,
+
+vizzle-vazzle, wizzle-wazzle, zizzle-zazzle, blonk, clonk, donk, flonk, glonk, honk, lonk,
+
+monk-bonk, plonk, quonk, ronk, slonk, tonk, vonk, wonk, zonk, zlonk,
+
+bimp, dimp, flimp, glimp, himp, jimp, klimp, limp-wimp, mimp, nimp,
+
+pimp-shrimp, quimp, rimp, slimp, timp, vimp, wimp, zimp, blimp-flimp, skimp-wimp,
+
+boggle-woggle, coggle-moggle, doggle-foggle, foggle-boggle, goggle-boggle, hoggle-boggle, joggle-boggle, koggle-boggle, loggle-boggle, moggle-boggle,
+
+noggle-boggle, poggle-boggle, quoggle-boggle, roggle-boggle, soggle-boggle, toggle-boggle, voggle-boggle, woggle-boggle, zoggle-boggle, zloggle-boggle,
+
+splish-splash, squish-squash, swish-swash, trish-trash, wish-wash, blish-blash, clish-clash, drish-drash, flish-flash, glish-glash,
+
+krish-krash, plish-plash, slish-slash, smish-smash, snish-snash, spish-spash, stish-stash, twish-twash, whish-whash, zish-zash,
+
+bamboozlement, flabbergastation, discombobulation, hornswogglement, kerfufflement, skedaddlement, whatchamacallit, thingamajig, thingamabob, doohickey,
+
+gizmo, gadget, widget, doodad, whosit, whatsit, whoozis, jigger, majigger, dinglehopper,
+
+snarfblatt, flummery, balderdash, codswallop, tommyrot, fiddlesticks, horsefeathers, bosh, pishposh, phooey,
+
+applesauce, bananas, hooey, tripe, bunkum, eyewash, hogwash, flapdoodle, drivel, twaddle,
+
+gibberish, babble, prattle, blather, jabber, patter, natter, chatter, clatter, splatter,
+
+spatter, shatter, tatter, batter, fatter, hatter, latter, matter, platter, scatter,
+
+bingle-bongle, dingle-dongle, fingle-fongle, gingle-gongle, hingle-hongle, jingle-jongle, kingle-kongle, lingle-longle, mingle-mongle, ningle-nongle,
+
+pingle-pongle, quingle-quongle, ringle-rongle, single-songle, tingle-tongle, vingle-vongle, wingle-wongle, zingle-zongle, z্লingle-zlongle, shming-shmong,
+
+flibber-jabber, snicker-bicker, bluster-fluster, clatter-chatter, dither-wither, flutter-splutter, glimmer-dimmer, huff-scuff, jitter-skitter, lumber-number,
+
+mumble-fumble, natter-spatter, putter-mutter, quiver-sliver, rumble-stumble, scurry-hurry, tumble-crumble, wheeze-squeeze, yap-snap, zoom-gloom,
+
+zorkle, borkle, dorkle, forkle, gorkle, horkle, jorkle, korkle, lorkle, morkle,
+
+norkle, porkle, quorkle, rorkle, sorkle, torkle, vorkle, workle, zorkle-blork, snorkle-bork,
+
+flibberty-giblet, snolly-golly, widdershin-bin, bumfuzzle-muzzle, catty-wampus-pampus, gardy-loo-hoo, tara-diddle-fiddle, colly-wobble-gobble, lob-lolly-pop, gobble-dy-gook-spook,
+
+ker-fuffle-shuffle, hulla-baloo-zoo, brou-haha-ta-ta, shenani-gans-pans, ske-daddle-paddle, bam-boozle-snoozle, horn-swoggle-toggle, ram-bunctious-functious, can-tankerous-spankerous, discom-bobulate-globulate,
+
+flum-mox-box, gob-smacked-whacked, higgledy-piggledy-jiggledy, hodge-podge-lodge, hood-wink-blink, jabber-wocky-socky, lickety-split-bit, ma-larkey-sparky, mug-wump-bump, namby-pamby-bamby,
+
+nincom-poop-scoop, per-snickety-rickety, poppy-cock-sock, rig-marole-mole, scala-wag-bag, whipper-snapper-clapper, wishy-washy-squashy, zany-brainy, zig-zag-swag, blather-skite-kite,
+
+boon-doggle-boggle, fol-derol-roll, frab-jous-spous, ga-lumph-thump, gim-crack-snack, haber-dashery-mashery, hocus-pocus-crocus, hum-drum-strum, jiggery-pokery-jokery, klutz-putz,
+
+lolla-palooza-snooza, mump-simus-primus, shiny, ninny-hammer-slammer, pumper-nickel-pickle, quibble-dribble, raga-muffin-puffin, snicker-doodle-poodle, topsy-turvy-curvy, uffish-puffish, vorpal-dorpal,
+
+bander-snatch-hatch, jub-jub-rub, manx-ome-gnome, tul-gey-bulgey, sli-thy-blithy, toves-groves, gyre-spire, gim-ble-thimble, wa-be-babe, mim-sy-whimsy,
+
+boro-goves-stoves, mome-home, raths-baths, out-grabe-babe, chor-tle-snortle, snicker-snack-whack, cal-looh-moo, cal-lay-hay, bril-lig-twig, beam-ish-gleamish,
+
+splendi-ferous-biferous, scrum-diddly-umptious-bumptious, whizz-popper-stopper, snozz-cumber-slumber, frobs-cottle-bottle, troggle-humper-thumper, phizz-wizard-lizard, vermi-cious-delicious, knids-skids, oompa-loompa-zoompa,
+
+florp-zorp, blib-blab, snick-snock, quib-quab, dwee-bop, zing-zang, plip-plop, glip-glop, skib-skab, trib-trab,
+
+wom-pum, zom-pum, flom-pum, glom-pum, blom-pum, clom-pum, drom-pum, from-pum, grom-pum, hrom-pum,
+
+jrom-pum, krom-pum, lrom-pum, mrom-pum, nrom-pum, prom-pum, quom-pum, srom-pum, trom-pum, vrom-pum,
+
+bazz-fuzz, dazz-muzz, fazz-buzz, gazz-luzz, hazz-puzz, jazz-ruzz, kazz-suzz, lazz-tuzz, mazz-vuzz, nazz-wuzz,
+
+pazz-yuzz, quazz-zuzz, razz-bazz, sazz-cazz, tazz-dazz, vazz-fazz, wazz-gazz, yazz-hazz, zazz-jazz, zplazz-frazz,
+
+shnook-blook, flook-glook, plook-slook, splook-stook, trook-wrook, zrook-brook, crook-drook, frook-grook, hrook-jrook, krook-lrook,
+
+mrook-nrook, prook-quook, srook-trook, vrook-zrook, bingle-bangle-bungle, dingle-dangle-dungle, fingle-fangle-fungle, gingle-gangle-gungle, hingle-hangle-hungle, jingle-jangle-jungle,
+
+kingle-kangle-kungle, lingle-langle-lungle, mingle-mangle-mungle, ningle-nangle-nungle, pingle-pangle-pungle, quingle-quangle-quungle, ringle-rangle-rungle, single-sangle-sungle, tingle-tangle-tungle, vingle-vangle-vungle,
+
+wingle-wangle-wungle, zingle-zangle-zungle, blibberty-blabberty-blubberty, flibberty-flabberty-flubberty, snickerty-snackerty-snuckerty, quibberty-quabberty-quubberty, dweeberty-dwabberty-dwubberty, zingerty-zangerty-zungerty, plipperty-plapperty-plupperty, glipperty-glapperty-glupperty,
+
+skibberty-skabberty-skubberty, tribberty-trabberty-trubberty, womperty-wamperty-wumperty, zomperty-zamperty-zumperty, flomperty-flamperty-flumperty, glomperty-glamperty-glumperty, blomperty-blamperty-blumperty, clomperty-clamperty-clumperty, dromperty-dramperty-drumperty, fromperty-framperty-frumperty,
+
+gromperty-gramperty-grumperty, hromperty-hramperty-hrumperty, jromperty-jramperty-jrumperty, kromperty-kramperty-krumperty, lromperty-lramperty-lrumperty, mromperty-mramperty-mrumperty, nromperty-nramperty-nrumperty, promperty-pramperty-prumperty, quomperty-quamperty-quumperty, sromperty-sramperty-srumperty,
+
+tromperty-tramperty-trumperty, vromperty-vramperty-vrumperty, zorkle-borkle-dorkle, forkle-gorkle-horkle, jorkle-korkle-lorkle, morkle-norkle-porkle, quorkle-rorkle-sorkle, torkle-vorkle-workle, zorkle-florkle-blorkle, snorkle-sporkle-storkle,
+
+flibbertigibbet-snollygoster, widdershins-bumfuzzle, cattywampus-gardyloo, taradiddle-collywobbles, loblolly-gobbledygook, kerfuffle-hullabaloo, brouhaha-shenanigans, skedaddle-bamboozle, hornswoggle-rambunctious, cantankerous-discombobulate,
+
+flummox-gobsmacked, higgledy-piggledy-hodgepodge, hoodwink-jabberwocky, lickety-split-malarkey, mugwump-namby-pamby, nincompoop-persnickety, poppycock-rigmarole, scalawag-whippersnapper, wishy-washy-zany, zig-zag-blatherskite,
+
+boondoggle-folderol, frabjous-galumph, gimcrack-haberdashery, hocus-pocus-humdrum, jiggery-pokery-klutz, lollapalooza-mumpsimus, ninnyhammer-pumpernickel, quibble-ragamuffin, snickerdoodle-topsy-turvy, uffish-vorpal,
+
+bandersnatch-jubjub, manxome-tulgey, slithy-toves, gyre-gimble, wabe-mimsy, borogoves-mome, raths-outgrabe, chortle-snicker-snack, callooh-callay, brillig-beamish,
+
+splendiferous-scrumdiddlyumptious, whizzpopper-snozzcumber, frobscottle-trogglehumper, phizzwizard-vermicious, knids-oompa-loompa, hornswoggler-snozzwanger, whangdoodle-ringbeller, biffsquiggled-crodswoggle, glumptious-hopscotchy, jumbly-kiddles,
+
+lurgid-muggled, noggin-noggin-oodles, piffle-quagmire, rummage-squiffy, tiddlywinks-umbrage, vortex-blorp-wibble-wobble, xylo-zorp-yatter-blab, ziggurat-fizz-blorp, glorp-florp-snorp-zorp, end-of-nonsense-zorp.
+flibbertigibbet, snollygoster, widdershins, bumfuzzle, cattywampus, gardyloo, taradiddle, collywobbles, loblolly, gobbledygook,
+
+kerfuffle, hullabaloo, brouhaha, shenanigans, skedaddle, bamboozle, hornswoggle, rambunctious, cantankerous, discombobulate,
+
+flummox, gobsmacked, higgledy-piggledy, hodgepodge, hoodwink, jabberwocky, lickety-split, malarkey, mugwump, namby-pamby,
+
+nincompoop, persnickety, poppycock, rigmarole, scalawag, whippersnapper, wishy-washy, zany, zig-zag, blatherskite,
+
+boondoggle, folderol, frabjous, galumph, gimcrack, haberdashery, hocus-pocus, humdrum, jiggery-pokery, klutz,
+
+lollapalooza, mumpsimus, ninnyhammer, pumpernickel, quibble, ragamuffin, snickerdoodle, topsy-turvy, uffish, vorpal,
+
+bandersnatch, jubjub, manxome, tulgey, slithy, toves, gyre, gimble, wabe, mimsy,
+
+borogoves, mome, raths, outgrabe, chortle, snicker-snack, callooh, callay, brillig, beamish,
+
+splendiferous, scrumdiddlyumptious, whizzpopper, snozzcumber, frobscottle, trogglehumper, phizzwizard, vermicious, knids, oompa-loompa,
+
+hornswoggler, snozzwanger, whangdoodle, ringbeller, biffsquiggled, crodswoggle, glumptious, hopscotchy, jumbly, kiddles,
+
+lurgid, muggled, noggin-noggin, oodles, piffle, quagmire, rummage, squiffy, tiddlywinks, umbrage,
+
+vortex-blorp, wibble-wobble, xylo-zorp, yatter-blab, ziggurat-fizz, blorp, glorp, florp, snorp, zorp,
+
+quibble-quabble, fiddle-faddle, tittle-tattle, pitter-patter, knick-knack, riff-raff, mish-mash, chit-chat, ding-dong, ping-pong,
+
+sing-song, king-kong, tick-tock, flip-flop, hip-hop, tip-top, clip-clop, drip-drop, slip-slop, snip-snap,
+
+criss-cross, dingle-dangle, fiddle-dee-dee, hee-haw, hoity-toity, hurly-burly, itsy-bitsy, teeny-weeny, lovey-dovey, mumbo-jumbo,
+
+nitty-gritty, okey-dokey, pell-mell, razzle-dazzle, roly-poly, super-duper, teeter-totter, walkie-talkie, willy-nilly, boogie-woogie,
+
+argle-bargle, artsy-fartsy, bibbity-bobbity-boo, boing-boing, chock-a-block, double-trouble, easy-peasy, fancy-schmancy, fuzzy-wuzzy, gangway-bangway,
+
+hanky-panky, helter-skelter, hokey-pokey, hubba-hubba, jeepers-creepers, kowtow, lalapalooza, loosey-goosey, mojo-dojo, namby-pamby,
+
+ooey-gooey, peeping-tom, pooh-pooh, rinky-dink, rumble-tumble, shilly-shally, silly-billy, snuggly-wuggly, teeny-tiny, ultra-vultra,
+
+vroom-vroom, wheeler-dealer, yadda-yadda, zoot-suit, blibber-blabber, crinkle-crankle, draggle-tail, flim-flam, gilly-gally, hob-nob,
+
+iggledy-piggledy, jingle-jangle, kittle-kattle, lippity-loppity, mingle-mangle, niddle-noddle, piddle-paddle, quiddle-quaddle, riddle-raddle, snick-snack,
+
+tangle-wangle, viddle-vaddle, wiggle-waggle, zingle-zangle, flibberty-flabberty, snicker-snacker, bluster-muster, clatter-splatter, dither-slither, flutter-mutter,
+
+glimmer-shimmer, huff-puff, jitter-twitter, lumber-slumber, mumble-jumble, natter-chatter, putter-stutter, quiver-shiver, rumble-grumble, scurry-flurry,
+
+tumble-bumble, wheeze-sneeze, yap-flap, zoom-boom, bazzle-frazzle, crunkle-spunkle, dweeble-fweeble, frizzle-frazzle, grizzle-grazzle, hizzle-hazzle,
+
+jizzle-jazzle, krizzle-krazzle, lizzle-lazzle, mizzle-mazzle, nizzle-nazzle, pizzle-pazzle, quizzle-quazzle, rizzle-razzle, sizzle-sazzle, tizzle-tazzle,
+
+vizzle-vazzle, wizzle-wazzle, zizzle-zazzle, blonk, clonk, donk, flonk, glonk, honk, lonk,
+
+monk-bonk, plonk, quonk, ronk, slonk, tonk, vonk, wonk, zonk, zlonk,
+
+bimp, dimp, flimp, glimp, himp, jimp, klimp, limp-wimp, mimp, nimp,
+
+pimp-shrimp, quimp, rimp, slimp, timp, vimp, wimp, zimp, blimp-flimp, skimp-wimp,
+
+boggle-woggle, coggle-moggle, doggle-foggle, foggle-boggle, goggle-boggle, hoggle-boggle, joggle-boggle, koggle-boggle, loggle-boggle, moggle-boggle,
+
+noggle-boggle, poggle-boggle, quoggle-boggle, roggle-boggle, soggle-boggle, toggle-boggle, voggle-boggle, woggle-boggle, zoggle-boggle, zloggle-boggle,
+
+splish-splash, squish-squash, swish-swash, trish-trash, wish-wash, blish-blash, clish-clash, drish-drash, flish-flash, glish-glash,
+
+krish-krash, plish-plash, slish-slash, smish-smash, snish-snash, spish-spash, stish-stash, twish-twash, whish-whash, zish-zash,
+
+bamboozlement, flabbergastation, discombobulation, hornswogglement, kerfufflement, skedaddlement, whatchamacallit, thingamajig, thingamabob, doohickey,
+
+gizmo, gadget, widget, doodad, whosit, whatsit, whoozis, jigger, majigger, dinglehopper,
+
+snarfblatt, flummery, balderdash, codswallop, tommyrot, fiddlesticks, horsefeathers, bosh, pishposh, phooey,
+
+applesauce, bananas, hooey, tripe, bunkum, eyewash, hogwash, flapdoodle, drivel, twaddle,
+
+gibberish, babble, prattle, blather, jabber, patter, natter, chatter, clatter, splatter,
+
+spatter, shatter, tatter, batter, fatter, hatter, latter, matter, platter, scatter,
+
+bingle-bongle, dingle-dongle, fingle-fongle, gingle-gongle, hingle-hongle, jingle-jongle, kingle-kongle, lingle-longle, mingle-mongle, ningle-nongle,
+
+pingle-pongle, quingle-quongle, ringle-rongle, single-songle, tingle-tongle, vingle-vongle, wingle-wongle, zingle-zongle, z্লingle-zlongle, shming-shmong,
+
+flibber-jabber, snicker-bicker, bluster-fluster, clatter-chatter, dither-wither, flutter-splutter, glimmer-dimmer, huff-scuff, jitter-skitter, lumber-number,
+
+mumble-fumble, natter-spatter, putter-mutter, quiver-sliver, rumble-stumble, scurry-hurry, tumble-crumble, wheeze-squeeze, yap-snap, zoom-gloom,
+
+zorkle, borkle, dorkle, forkle, gorkle, horkle, jorkle, korkle, lorkle, morkle,
+
+norkle, porkle, quorkle, rorkle, sorkle, torkle, vorkle, workle, zorkle-blork, snorkle-bork,
+
+flibberty-giblet, snolly-golly, widdershin-bin, bumfuzzle-muzzle, catty-wampus-pampus, gardy-loo-hoo, tara-diddle-fiddle, colly-wobble-gobble, lob-lolly-pop, gobble-dy-gook-spook,
+
+ker-fuffle-shuffle, hulla-baloo-zoo, brou-haha-ta-ta, shenani-gans-pans, ske-daddle-paddle, bam-boozle-snoozle, horn-swoggle-toggle, ram-bunctious-functious, can-tankerous-spankerous, discom-bobulate-globulate,
+
+flum-mox-box, gob-smacked-whacked, higgledy-piggledy-jiggledy, hodge-podge-lodge, hood-wink-blink, jabber-wocky-socky, lickety-split-bit, ma-larkey-sparky, mug-wump-bump, namby-pamby-bamby,
+
+nincom-poop-scoop, per-snickety-rickety, poppy-cock-sock, rig-marole-mole, scala-wag-bag, whipper-snapper-clapper, wishy-washy-squashy, zany-brainy, zig-zag-swag, blather-skite-kite,
+
+boon-doggle-boggle, fol-derol-roll, frab-jous-spous, ga-lumph-thump, gim-crack-snack, haber-dashery-mashery, hocus-pocus-crocus, hum-drum-strum, jiggery-pokery-jokery, klutz-putz,
+
+lolla-palooza-snooza, mump-simus-primus, ninny-hammer-slammer, pumper-nickel-pickle, quibble-dribble, raga-muffin-puffin, snicker-doodle-poodle, topsy-turvy-curvy, uffish-puffish, vorpal-dorpal,
+
+bander-snatch-hatch, jub-jub-rub, manx-ome-gnome, tul-gey-bulgey, sli-thy-blithy, toves-groves, gyre-spire, gim-ble-thimble, wa-be-babe, mim-sy-whimsy,
+
+boro-goves-stoves, mome-home, raths-baths, out-grabe-babe, chor-tle-snortle, snicker-snack-whack, cal-looh-moo, cal-lay-hay, bril-lig-twig, beam-ish-gleamish,
+
+splendi-ferous-biferous, scrum-diddly-umptious-bumptious, whizz-popper-stopper, snozz-cumber-slumber, frobs-cottle-bottle, troggle-humper-thumper, phizz-wizard-lizard, vermi-cious-delicious, knids-skids, oompa-loompa-zoompa,
+
+florp-zorp, blib-blab, snick-snock, quib-quab, dwee-bop, zing-zang, plip-plop, glip-glop, skib-skab, trib-trab,
+
+wom-pum, zom-pum, flom-pum, glom-pum, blom-pum, clom-pum, drom-pum, from-pum, grom-pum, hrom-pum,
+
+jrom-pum, krom-pum, lrom-pum, mrom-pum, nrom-pum, prom-pum, quom-pum, srom-pum, trom-pum, vrom-pum,
+
+bazz-fuzz, dazz-muzz, fazz-buzz, gazz-luzz, hazz-puzz, jazz-ruzz, kazz-suzz, lazz-tuzz, mazz-vuzz, nazz-wuzz,
+
+pazz-yuzz, quazz-zuzz, razz-bazz, sazz-cazz, tazz-dazz, vazz-fazz, wazz-gazz, yazz-hazz, zazz-jazz, zplazz-frazz,
+
+shnook-blook, flook-glook, plook-slook, splook-stook, trook-wrook, zrook-brook, crook-drook, frook-grook, hrook-jrook, krook-lrook,
+
+mrook-nrook, prook-quook, srook-trook, vrook-zrook, bingle-bangle-bungle, dingle-dangle-dungle, fingle-fangle-fungle, gingle-gangle-gungle, hingle-hangle-hungle, jingle-jangle-jungle,
+
+kingle-kangle-kungle, lingle-langle-lungle, mingle-mangle-mungle, ningle-nangle-nungle, pingle-pangle-pungle, quingle-quangle-quungle, ringle-rangle-rungle, single-sangle-sungle, tingle-tangle-tungle, vingle-vangle-vungle,
+
+wingle-wangle-wungle, zingle-zangle-zungle, blibberty-blabberty-blubberty, flibberty-flabberty-flubberty, snickerty-snackerty-snuckerty, quibberty-quabberty-quubberty, dweeberty-dwabberty-dwubberty, zingerty-zangerty-zungerty, plipperty-plapperty-plupperty, glipperty-glapperty-glupperty,
+
+skibberty-skabberty-skubberty, tribberty-trabberty-trubberty, womperty-wamperty-wumperty, zomperty-zamperty-zumperty, flomperty-flamperty-flumperty, glomperty-glamperty-glumperty, blomperty-blamperty-blumperty, clomperty-clamperty-clumperty, dromperty-dramperty-drumperty, fromperty-framperty-frumperty,
+
+gromperty-gramperty-grumperty, hromperty-hramperty-hrumperty, jromperty-jramperty-jrumperty, kromperty-kramperty-krumperty, lromperty-lramperty-lrumperty, mromperty-mramperty-mrumperty, nromperty-nramperty-nrumperty, promperty-pramperty-prumperty, quomperty-quamperty-quumperty, sromperty-sramperty-srumperty,
+
+tromperty-tramperty-trumperty, vromperty-vramperty-vrumperty, zorkle-borkle-dorkle, forkle-gorkle-horkle, jorkle-korkle-lorkle, morkle-norkle-porkle, quorkle-rorkle-sorkle, torkle-vorkle-workle, zorkle-florkle-blorkle, snorkle-sporkle-storkle,
+
+flibbertigibbet-snollygoster, widdershins-bumfuzzle, cattywampus-gardyloo, taradiddle-collywobbles, loblolly-gobbledygook, kerfuffle-hullabaloo, brouhaha-shenanigans, skedaddle-bamboozle, hornswoggle-rambunctious, cantankerous-discombobulate,
+
+flummox-gobsmacked, higgledy-piggledy-hodgepodge, hoodwink-jabberwocky, lickety-split-malarkey, mugwump-namby-pamby, nincompoop-persnickety, poppycock-rigmarole, scalawag-whippersnapper, wishy-washy-zany, zig-zag-blatherskite,
+
+boondoggle-folderol, frabjous-galumph, gimcrack-haberdashery, hocus-pocus-humdrum, jiggery-pokery-klutz, lollapalooza-mumpsimus, ninnyhammer-pumpernickel, quibble-ragamuffin, snickerdoodle-topsy-turvy, uffish-vorpal,
+
+bandersnatch-jubjub, manxome-tulgey, slithy-toves, gyre-gimble, wabe-mimsy, borogoves-mome, raths-outgrabe, chortle-snicker-snack, callooh-callay, brillig-beamish,
+
+splendiferous-scrumdiddlyumptious, whizzpopper-snozzcumber, frobscottle-trogglehumper, phizzwizard-vermicious, knids-oompa-loompa, hornswoggler-snozzwanger, whangdoodle-ringbeller, biffsquiggled-crodswoggle, glumptious-hopscotchy, jumbly-kiddles,
+
+lurgid-muggled, noggin-noggin-oodles, piffle-quagmire, rummage-squiffy, tiddlywinks-umbrage, vortex-blorp-wibble-wobble, xylo-zorp-yatter-blab, ziggurat-fizz-blorp, glorp-florp-snorp-zorp, end-of-nonsense-zorp.
