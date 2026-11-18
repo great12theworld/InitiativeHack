@@ -8,7 +8,7 @@ const terminal = document.getElementById('terminal')
 const filesystem = { //as it seems this is the filesystem.
     "/home/user" : ["Documents",".system"],
     "/home/user/Documents": ["notes.txt"],
-    "/home/user/.system" : ["access.log", "session.txt", "diamond", "club"],
+    "/home/user/.system" : ["access.log", "session.txt", "diamond", "club", "heart"],
     "/home/user/.system/diamond" : ["1","2","3", "4","5", "6", "7", "8", "9", "10"],
     "/home/user/.system/club" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"],
     "/home/user/.system/heart" : ["1","2","3","4","5","6","7","8","9","10"],
@@ -137,7 +137,6 @@ const files = {
         "C says: 'I am a liar'\n" +
         "Enter the solution as letters in :(_ _ _) with Liar first, truth teller second and normal third.", //Solution is BAC.
         //future encryptions: four squares encryption, dCode
-        //
 
     "/home/user/.system/heart/1" :
         "\n Challenge 1 of Hearts. Game start.\n" +
@@ -148,7 +147,10 @@ const files = {
         "Please go to the github repository to get the code for the next challenge found here: ",
     "/home/user/.system/heart/2" :
         "\n Challenge 2 of Hearts. Game start.\n" +
-        ""
+        "Please refer to the 2 of Hearts file.",
+    "/home/user/.system/heart/3" : 
+        "\n Challenge 3 of Hearts. Game start\n" + 
+        "Please refer to teh 3 of Hearts file.",
 }
 const lockedFiles = {
     "/home/user/.system/session.txt" : "PHANTOM",
@@ -170,7 +172,9 @@ const lockedFiles = {
     "/home/user/.system/club/8" : "PARTION",
     "/home/user/.system/club/9" : "APPARITION",
     "/home/user/.system/club/10" : "GHOUL",
-    "/home/user/.system/heart/2" : "CHAIN"
+    "/home/user/.system/heart/2" : "CHAIN",
+    "/home/user/.system/heart/3" : "NIGHTINGALE",
+    "/home/user/.system/heart/4" : "TEMPTATION"
 
 }
 const unlockedFiles = new Set();
