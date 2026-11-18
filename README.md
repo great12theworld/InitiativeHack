@@ -5,7 +5,7 @@ It was made step by step, starting with the filesystem and commands and slowly b
 
 - Update!!
 This project has been advnaced from simply a boiler plate to a set of challenges with lore, puzzles, cyrptography and more!! made by me! Parth Patil. This game is a web based terminal meant to give users a challenging and enjoyable experience while solving puzzles and having fun!
-This project is meant to be played in order of increasing difficulty: Diamonds, Clubs, Hearts, and Spades. I have made it so this is not the required pathway so as to give people a way to follow difficulties more attuned to their puzzle solving skill levels.
+This project is meant to be played in order of increasing difficulty: Diamonds, Clubs, Hearts, and Spades. I have made it so this is not the required pathway so as to give people a way to follow difficulties more attuned to their puzzle solving skill levels. 'SYSTEM' messages are meta and not part of lore/story, meant as a note from the author (me).
 The same commands listed above are used for this project. Some of the biggest challenges I incurred was the image puzzle involving steganography and how to integrate that.
 
 How to run it:

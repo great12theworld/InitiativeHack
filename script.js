@@ -27,7 +27,8 @@ const files = {
         "3:14:15 - WARNING: unknown user detected\n" +
         "3:14:19 - unknown user connected\n" +
         "3:14:19 - Restore utility available\n" + 
-        "3:14:19 - Note: Where did you locate this terminal? 7 Letters, a ghost\n", //Basic riddle, the answer is PHANTOM.
+        "3:14:19 - Note: Where did you locate this terminal? 7 Letters, a ghost\n" +
+        "3:14:58 - SYSTEM: In order to unlock new files please make sure your answers are in all CAPS and one word", //Basic riddle, the answer is PHANTOM.
 
     "/home/user/.system/session.txt" :
         "SESSION RECORD\n\n"+
@@ -118,8 +119,7 @@ const files = {
         "Conseruator\n",
     "/home/user/.system/club/7" :
         "\n Challenge 7 of Clubs. Game start.\n" +//each of the first few prime numbers is assigned to a spesific letter which when converted becomed a message, in this case the code.
-        "53 2 6171234743\n\n" +
-        "Primes.",
+        "53 2 6171234743\n\n",
     "/home/user/.system/club/8" : 
         "\n Challenge 8 of Clubs. Game start.\n" +
         "The time during which a celestial body becomes visible from Earth",
@@ -152,7 +152,13 @@ const files = {
         "\n Challenge 3 of Hearts. Game start.\n" + 
         "Please refer to the 3 of Hearts file.", //hexagram encoding
     "/home/user/.system/heart/4" :
-        "\n Challenge 4 of Hearts. Game start.\n"
+        "\n Challenge 4 of Hearts. Game start.\n" +
+        "Please refer to the 4 of Hearts file.",
+    "/home/user/.system/heart/5" :
+        "\n Challenge 5 of Hearts. Game start.\n" +
+        "SYSTEM: This will be the last of the hearts as it is quite difficult to make high quality puzzles that have a solid level of depth at this difficulty level.\n" +
+        "SYSTEM: I had a very spesific vision for this difficulty, There is more to come.\n" +
+        "Atreusre."
 }
 const lockedFiles = {
     "/home/user/.system/session.txt" : "PHANTOM",
@@ -178,6 +184,7 @@ const lockedFiles = {
     "/home/user/.system/heart/3" : "NIGHTINGALE",
     "/home/user/.system/heart/4" : "TEMPTATION",
     "/home/user/.system/heart/5" : "PLATTER", //Beuafort cipher, then base64, which is a riddle, the answer is platter
+    "/home/user/.system/heart/6" : "TREASURE",
 
 
 }
