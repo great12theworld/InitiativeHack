@@ -8,7 +8,7 @@ const terminal = document.getElementById('terminal')
 const filesystem = { //as it seems this is the filesystem.
     "/home/user" : ["Documents",".system"],
     "/home/user/Documents": ["notes.txt"],
-    "/home/user/.system" : ["access.log", "session.txt", "diamond", "club", "heart"],
+    "/home/user/.system" : ["access.log", "session.txt", "diamond", "club", "heart", "spade"],
     "/home/user/.system/diamond" : ["1","2","3", "4","5", "6", "7", "8", "9", "10"],
     "/home/user/.system/club" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"],
     "/home/user/.system/heart" : ["1","2","3","4","5","6","7","8","9","10"],
@@ -33,7 +33,7 @@ const files = {
     "/home/user/.system/session.txt" :
         "SESSION RECORD\n\n"+
         "Particpant: [REDACTED]\n" +
-        "Trial: 07\n" +
+        "Trial: HL\n" +
         "Status: INCOMPLETE\n" +
         "QIBOUPN", //Ceacer Cipher
 
@@ -46,7 +46,7 @@ const files = {
     "/home/user/.system/diamond/2":
         "\nChallenge, 2 of Diamonds. Game start.\n"+
         "Hello. We have not properly met before.\n"+
-        "My name is Ŗ̶̧͉͚̗̱̫͚̪̘̼̯̙͓̻̻͛̿͊̓̈́̾̏̒͆̀́́ͅư̶̢̡̥̻̙͕̙͙̘̖͖̳͙̼̣̟͍̩̯̋̾̇͆̈͆̌̈́̀̓͂̈́̋͆̀͘͜͜͝͠ͅt̶̰͙̓̊̇̑̆̌͛̎̌͒͗̂̽̍̄̈́͠͠ḥ̶͍̰̗̭̘͕̱̳̬͇̐̈́͋̽̎͝ͅ  and I would love to learn more about you.\n\n\n"+
+        "Our name is Ŗ̶̧͉͚̗̱̫͚̪̘̼̯̙͓̻̻͛̿͊̓̈́̾̏̒͆̀́́ͅư̶̢̡̥̻̙͕̙͙̘̖͖̳͙̼̣̟͍̩̯̋̾̇͆̈͆̌̈́̀̓͂̈́̋͆̀͘͜͜͝͠ͅt̶̰͙̓̊̇̑̆̌͛̎̌͒͗̂̽̍̄̈́͠͠ḥ̶͍̰̗̭̘͕̱̳̬͇̐̈́͋̽̎͝ͅ  and I would love to learn more about you.\n\n\n"+
         "me? oh i'm not all that special. I like to read sometimes, my favorite author has to be Dante Alighieri\n"+
         "I just love his execution of The Divine Comedy. You know Dan Brown's remake was horrible.\n" +
         "Especially in how it didnt get straight to the point, it made you go through these stupid twists and turns just to get to a ROTTED version of the same ending.\n" +
@@ -67,13 +67,13 @@ const files = {
         "Aolwohuavtjvklwohuavtpzwohuavtzljvuk. shift 7.", //I forgot. lmk if you solve it
     "/home/user/.system/diamond/7" : 
         "\nChallenge, 7 of Diamonds. Game start.\n" +
-        "Hey nerds. This is Mason Haven talking to you live." +
-        "I'm asking a random person to write this email. His name is Kabir." + 
-        "Yo. It's Kabir." +
-        "I'm sure you are all a bunch of extremely intelligent people." +
-        "So you won't struggle on these next challenges." +
-        "Right?" +
-        "The next password is PASSPORT",
+        "SYSTEM: Hey nerds. This is Mason Haven talking to you live." +
+        "SYSTEM: I'm asking a random person to write this email. His name is Kabir." + 
+        "SYSTEM: Yo. It's Kabir." +
+        "SYSTEM: I'm sure you are all a bunch of extremely intelligent people." +
+        "SYSTEM: So you won't struggle on these next challenges." +
+        "SYSTEM: Right?" +
+        "SYSTEM: The next password is PASSPORT",
     "/home/user/.system/diamond/8" :
         "\nChallenge, 8 of Diamonds. Game start.\n" +
         "This is a short story with a message hidden within it. Get the message correct to complete the game.\n\n" + 
@@ -93,13 +93,13 @@ const files = {
         "It is called the _ _ _ _ _ _ Project.", //Unsent project
     "/home/user/.system/diamond/10" :
         "\n Challenge, 10 of Diamonds. Game start.\n" +
-        "Final challenge of the Diamond numbers, what do you think the code is?" +
         "Where is Kento Nanami from?", //OSINT
 
 
     "/home/user/.system/club/1" : 
         "\n Challenge, 1 of Clubs. Game start.\n" + //steaganography
-        "Check the image titled 'club 1' in the git repo here: https://github.com/great12theworld/InitiativeHack",
+        "Check the image titled 'club 1' in the git repo here: https://github.com/great12theworld/InitiativeHack \n"+
+        "There are answers on this repo as well in the JS file if you so wish to check.",
     "/home/user/.system/club/2" :
         "\n Challenge 2 of Clubs. Game start.\n" +
         "Λ$5¤27m3n†", //leet speak
@@ -126,7 +126,8 @@ const files = {
     "/home/user/.system/club/9" :
         "\n Challenge 9 of Clubs. Game start.\n"+ 
         "The name of a popular anime, critics and viewers alike both come to the conclusion that the manga is better than the anime\n" +
-        "Relating to the password of DIAMOND 1, and similar in context, idea and physical what is it?", //more OSINT
+        "Relating to the password of DIAMOND 1, and similar in context, idea and physical what is it?" +
+        "G _ _ _ L", //more OSINT
     "/home/user/.system/club/10" : 
         "\n Challenge 10 of Clubs. Game start. \n" + 
         "Final challenge of the Club numbers\n"+
@@ -153,12 +154,16 @@ const files = {
         "Please refer to the 3 of Hearts file.", //hexagram encoding
     "/home/user/.system/heart/4" :
         "\n Challenge 4 of Hearts. Game start.\n" +
-        "Please refer to the 4 of Hearts file.",
+        "Please refer to the 4 of Hearts file.", //Its further down in this file.
     "/home/user/.system/heart/5" :
         "\n Challenge 5 of Hearts. Game start.\n" +
-        "SYSTEM: This will be the last of the hearts as it is quite difficult to make high quality puzzles that have a solid level of depth at this difficulty level.\n" +
-        "SYSTEM: I had a very spesific vision for this difficulty, There is more to come.\n" +
-        "Atreusre.",
+        "",
+    "/home/user/.system/heart/6" :
+        "\n Challenge 6 of Hearts. Game start.\n" +
+        "",
+
+
+
     "/home/user/.system/spade/1" :
         "\n Challenge 1 of Spades. Game start.\n" + 
         "...\n" +
@@ -171,6 +176,29 @@ const files = {
         "You.. made it? damn.\n" +
         "Good job.\n" +
         "Refer to 2 of Spades file.",
+    "/home/user/.system/spade/3" :
+        "\n Challenge 3 of Spades. Game start. \n" +
+        "Refer to 3 of Spades file.",
+    "/home/user/.system/spade/4" :
+        "\n Challenge 4 of Spades. Game start.\n"+
+        "Refer to 4 of Spades file.",
+    "/home/user/.system/spade/5" :
+        "\n Challenge 5 of Spades. Game start.\n" +
+        "Hi Ruth.\n" +
+        "How are you doing today.\n\n\n" +
+        "Hopefully well.\n\n" + 
+        "We noticed that you have...   broken a few rules here.\n" +
+        "\n\n\n This is unnacceptable." +
+        "Who do you think you are?\n" +
+        "Do you know just how much trouble you have caused the Initiatve? Your exsistence alone nags at big corpo." +
+        "If I were you? I'd be running. Fast is what you do best ain't it?\n" +
+        "Cyberspace sure isnt the most fun place to be in. Can't wait to find your host.\n" +
+        "Get moving.\n\n\n" +
+        "This message was delivered from an unknown sender.\n" +
+        "Answer: Who sent the message above?",
+    "/home/user/.system/spade/6" :
+        "\n Challenge 6 of Spades. Game start.\n" +
+        "Refer to 6 of Spades file.",
 }
 const lockedFiles = {
     "/home/user/.system/session.txt" : "PHANTOM",
@@ -198,9 +226,11 @@ const lockedFiles = {
     "/home/user/.system/heart/5" : "PLATTER", //Beuafort cipher, then base64, which is a riddle, the answer is platter
     "/home/user/.system/heart/6" : "TREASURE",
     "/home/user/.system/spade/2" : "SHINY",
-    "/home/user/.system/spade/3" : ""
-
-
+    "/home/user/.system/spade/3" : "CHAOS",
+    "/home/user/.system/spade/4" : "IGNORANCE",
+    "/home/user/.system/spade/5" : "RUTH",
+    "/home/user/.system/spade/6" : "SIMON",
+    "/home/user/.system/spade/7" : ""
 }
 const unlockedFiles = new Set();
 let pendingUnlockPath = null;
