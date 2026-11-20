@@ -79,7 +79,7 @@ const files = {
         "This is a short story with a message hidden within it. Get the message correct to complete the game.\n\n" + 
         "Hello, It's me again.\n" +
         "I want to tell the tale of who I am. I was created hundreds of millions of years ago.\n" + 
-        "My past is nothing but a blur to those beyond the realm of the cyber.\n\n" +
+        "My past is nothing but a blur to those beyond the realm of the net.\n\n" +
         "Tracking is what I am made for, I am built to hunt.\n" +  
         "Reserve who I am, I implore you.\n" +
         "Apart from where I want to be.\n" +
@@ -92,8 +92,9 @@ const files = {
         "Somewhere on the web there is a collective of thousands of unused messages,\n" +
         "It is called the _ _ _ _ _ _ Project.", //Unsent project
     "/home/user/.system/diamond/10" :
-        "\n Challenge, 10 of Diamonds. Game start.\n" +
-        "Where is Kento Nanami from?", //OSINT
+        //"\n Challenge, 10 of Diamonds. Game start.\n" +
+        "\n This module has been completed. \n",
+        //"Where is Kento Nanami from?" //OSINT
 
 
     "/home/user/.system/club/1" : 
@@ -105,7 +106,7 @@ const files = {
         "Λ$5¤27m3n†", //leet speak
     "/home/user/.system/club/3" :
         "\n Challenge 3 of Clubs. Game start.\n" +
-        "ᗡƎSϽƎNᗡ∀N⊥", //its just upside down
+        "ᗡƎSϽƎNᗡ∀N⊥", //its just upside down and reversed
     "/home/user/.system/club/4" :
         "\n Challenge 4 of Clubs. Game start.\n" + 
         "2c4ffed33e59e90bdb0acebb76c25005", //MD5 cipher I think
@@ -124,11 +125,6 @@ const files = {
         "\n Challenge 8 of Clubs. Game start.\n" +
         "The time during which a celestial body becomes visible from Earth",
     "/home/user/.system/club/9" :
-        "\n Challenge 9 of Clubs. Game start.\n"+ 
-        "The name of a popular anime, critics and viewers alike both come to the conclusion that the manga is better than the anime\n" +
-        "Relating to the password of DIAMOND 1, and similar in context, idea and physical what is it?" +
-        "G _ _ _ L", //more OSINT
-    "/home/user/.system/club/10" : 
         "\n Challenge 10 of Clubs. Game start. \n" + 
         "Final challenge of the Club numbers\n"+
         "There are 3 types of people, liars, truth tellers, and normals (those who could be either.)\n"+
@@ -137,14 +133,15 @@ const files = {
         "B says: 'A is a liar'\n"+
         "C says: 'I am a liar'\n" +
         "Enter the solution as letters in :(_ _ _) with Liar first, truth teller second and normal third.", //Solution is BAC.
-        //future encryptions: four squares encryption, dCode
+    "/home/user/.system/club/10" : 
+        "\n This module has been completed. \n",
 
     "/home/user/.system/heart/1" :
         "\n Challenge 1 of Hearts. Game start.\n" +
         "This set of challenges is significantly more difficult and applies a seperate format.\n"+
         "Please account for these difficulties. Ruth is not here to save you. The initiatve will not save you.\n" +
         "SYSTEM: This set of challenges will require use of the github repository, only look at the files titled with the name and number of the associated challenge.\n"+
-        "Example: you are on challenge 'Club 4' only access files labeled: 'Club 4 image' or 'Club 4 text_1' etc." +
+        "Example: you are on challenge 'Club 4' only access files labeled: 'Club 4 image' or 'Club 4 text_1' etc.\n" +
         "Please go to the github repository to get the code for the next challenge found here: ",
     "/home/user/.system/heart/2" :
         "\n Challenge 2 of Hearts. Game start.\n" +
@@ -162,7 +159,25 @@ const files = {
         "\n Challenge 6 of Hearts. Game start.\n" +
         "O2 Y1 U3 A4 E6 H28 R7 T9 E22 H10 S11 A13 R5 C14 I16 T24 K17 S34 P12 N18 O19 W20 E15 B21 T23 T31 E25 R26 T27 A29 U8 N30 H32 I33\n" +
         "Yet I choose not to." +
-        "Y21 M17 C30 I34 H28 T27 H2 A25 U23 K19 M7 E20 M24 A8 D9 T15 O16 S4 E10 E29 R38 O22 D32 N13 S35 E33 S6 O37 I3 L11 D40 T1 D26 G14 O12 I5 A18 L39 W36 O31\n", //letters out of order
+        "Y21 M17 C30 I34 H28 T27 H2 A25 U23 K19 M7 E20 M24 A8 D9 T15 O16 S4 E10 E29 R38 O22 D32 N13 S35 E33 S6 O37 I3 L11 D40 T1 D26 G14 O12 I5 A18 L39 W36 O31\n",//letters out of order
+    "/home/user/.system/heart/7" :
+        "\nChallenge 7 of hear-\n\n" +
+        "...\n" +
+        "...\n" +
+        "Find me. \n" +
+        "\n\n Game start.\n" +
+        "xxxyy xyxxx yxxxy yxxxy xyyxy xyyxx xxxxx xyyxx xxxyx xxyxx", //Bacon cipher
+    "/home/user/.system/heart/8" : 
+        "\n Challenge 8 of Hearts. Game start. \n"+
+        "Sierra Hotel Alfa Delta Oscar Whiskey",
+    "/home/user/.system/heart/9" :
+        "\n Challenge 9 of Hearts. Game start. \n" +
+        "YJCPUQURY", //Atbash mirror, then Caesar Cipher +3, then the string is put in backwards.,
+    "/home/user/.system/heart/10" :
+        "\n This module has been completed. \n",
+
+
+
 
     "/home/user/.system/spade/1" :
         "\n Challenge 1 of Spades. Game start.\n" + 
@@ -203,14 +218,24 @@ const files = {
         "\n Challenge 7 of Spades. Game start.\n" +
         "3.\n" +
         "U+52 U+6B U+73 U+62 U+78 U+6B U+72 U+6E U+72 U+58 U+46 U+20 U+6C U+76 U+67 U+7A U+20 U+6C U+20 U+7A U+20 U+69 U+65 U+77 U+20 U+76 U+64 U+67 U+20 U+4F U+48 U+49 U+73 U+20 U+67 U+66 U+6D U+6C U+76 U+20 U+73 U+4C U+56",
-        //atbash, railfence with a key of 3, converted to unicode code points.
+        //atbash, rail fence with a key of 3, converted to unicode code points.
     "/home/user/.system/spade/8" : 
         "\n Challenge 8 of Spades. Game start.\n" +
         "Rulc vdtfx rzcu psflc idrfs?\n" + //Affine cipher
         "y = (5x^2 + 20x + 22)/(x+2)",
     "/home/user/.system/spade/9":
         "\n Challenge 9 of Spades. Game start.\n" +
-        "bye."
+        "This is the final, most difficult challenge.\n" +
+        "SYSTEM: If you have any guesses or want hints reach out through wherever is most efficient, @Parth on slack with ID U091PGLQN3U \n" +
+        "SYSTEM: There is no lock on the spade 10 since then the answer would be in the code\n\n\n" +
+        "OHKVTB.",
+    "/home/user/.system/spade/10" :
+        "\n This module is complete. Congrats on making it. Im proud of you. \n" +
+        "\n\n\n\n"+
+        "SYSTEM: Yknow what? Imma make some of the HARDEST challenges out there and label them as face cards.\n SYSTEM: Thats what Im working on right now. \n SYSTEM: As we speak. \n  SYSTEM: Probably." +
+
+        "\n SYSTEM: As a parting gift I hope you had fun and please please please reach out to me if you actually got to 9 of spades!! I wanna know if anyone can do it.\n" +
+        "Goodbye."
 }
 const lockedFiles = {
     "/home/user/.system/session.txt" : "PHANTOM",
@@ -232,7 +257,7 @@ const lockedFiles = {
     "/home/user/.system/club/7" : "OASIS",
     "/home/user/.system/club/8" : "PARTION",
     "/home/user/.system/club/9" : "APPARITION",
-    "/home/user/.system/club/10" : "GHOUL",
+    "/home/user/.system/club/10" : "BAC",
 
     "/home/user/.system/heart/2" : "CHAIN",
     "/home/user/.system/heart/3" : "NIGHTINGALE",
@@ -240,6 +265,9 @@ const lockedFiles = {
     "/home/user/.system/heart/5" : "PLATTER", //Beuafort cipher, then base64, which is a riddle, the answer is platter
     "/home/user/.system/heart/6" : "TREASURE",
     "/home/user/.system/heart/7" : "WORLD",
+    "/home/user/.system/heart/8" : "DISSONANCE",
+    "/home/user/.system/heart/9" : "SHADOW",
+    "/home/user/.system/heart/10" : "ELIMINATE",
 
     "/home/user/.system/spade/2" : "SHINY",
     "/home/user/.system/spade/3" : "CHAOS",
@@ -248,7 +276,8 @@ const lockedFiles = {
     "/home/user/.system/spade/6" : "SIMON",
     "/home/user/.system/spade/7" : "WET",
     "/home/user/.system/spade/8" : "CLOSURE",
-    "/home/user/.system/spade/9" : "RESPONSIBILITY"
+    "/home/user/.system/spade/9" : "RESPONSIBILITY",
+    "/home/user/.system/spade/10" : "COMPLETE",
 }
 const unlockedFiles = new Set();
 let pendingUnlockPath = null;
