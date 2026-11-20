@@ -18,6 +18,8 @@ How to run it:
 Open it up on the website
 start typing in commands!!
 
+(hint: run ls -a and then use cd to navigate the directories that show up!)
+
 Commands work the same way Linux does:
 - ls -- lists files in the current directory
 - ls -a  -- Same as ls but shows hidden files
