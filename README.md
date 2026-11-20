@@ -5,7 +5,7 @@ It was made step by step, starting with the filesystem and commands and slowly b
 
 - Update!!
 This project has been advnaced from simply a boiler plate to a set of challenges with lore, puzzles, cyrptography and more!! made by me! Parth Patil. This game is a web based terminal meant to give users a challenging and enjoyable experience while solving puzzles and having fun!
-This project is meant to be played in order of increasing difficulty: Diamonds, Clubs, and Hearts. I have made it so this is not the required pathway so as to give people a way to follow difficulties more attuned to their puzzle solving skill levels. All of the Spade module is mostly story and same difficulty as Clubs. 'SYSTEM' messages are meta and not part of lore/story, meant as a note from the author (me).
+This project is meant to be played in order of increasing difficulty: Diamonds, Clubs, and Hearts. I have made it so this is not the required pathway so as to give people a way to follow difficulties more attuned to their puzzle solving skill levels and also because the difficulites are not perfect. All of the Spade module is mostly story and same difficulty as Clubs. 'SYSTEM' messages are meta and not part of lore/story, meant as a note from the author (me).
 The Spades set has the most lore, but requires some information from other locations that is rarley touched on. Full completion will require intense observation and thinking skills.
 The same commands listed above are used for this project. Some of the biggest challenges I incurred was the image puzzle involving steganography and how to integrate that.
 

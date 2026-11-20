@@ -157,12 +157,12 @@ const files = {
         "Please refer to the 4 of Hearts file.", //Its further down in this file.
     "/home/user/.system/heart/5" :
         "\n Challenge 5 of Hearts. Game start.\n" +
-        "",
+        "Please refer to the 5 of Hearts files.",
     "/home/user/.system/heart/6" :
         "\n Challenge 6 of Hearts. Game start.\n" +
-        "",
-
-
+        "O2 Y1 U3 A4 E6 H28 R7 T9 E22 H10 S11 A13 R5 C14 I16 T24 K17 S34 P12 N18 O19 W20 E15 B21 T23 T31 E25 R26 T27 A29 U8 N30 H32 I33\n" +
+        "Yet I choose not to." +
+        "Y21 M17 C30 I34 H28 T27 H2 A25 U23 K19 M7 E20 M24 A8 D9 T15 O16 S4 E10 E29 R38 O22 D32 N13 S35 E33 S6 O37 I3 L11 D40 T1 D26 G14 O12 I5 A18 L39 W36 O31\n", //letters out of order
 
     "/home/user/.system/spade/1" :
         "\n Challenge 1 of Spades. Game start.\n" + 
@@ -199,6 +199,18 @@ const files = {
     "/home/user/.system/spade/6" :
         "\n Challenge 6 of Spades. Game start.\n" +
         "Refer to 6 of Spades file.",
+    "/home/user/.system/spade/7" :
+        "\n Challenge 7 of Spades. Game start.\n" +
+        "3.\n" +
+        "U+52 U+6B U+73 U+62 U+78 U+6B U+72 U+6E U+72 U+58 U+46 U+20 U+6C U+76 U+67 U+7A U+20 U+6C U+20 U+7A U+20 U+69 U+65 U+77 U+20 U+76 U+64 U+67 U+20 U+4F U+48 U+49 U+73 U+20 U+67 U+66 U+6D U+6C U+76 U+20 U+73 U+4C U+56",
+        //atbash, railfence with a key of 3, converted to unicode code points.
+    "/home/user/.system/spade/8" : 
+        "\n Challenge 8 of Spades. Game start.\n" +
+        "Rulc vdtfx rzcu psflc idrfs?\n" + //Affine cipher
+        "y = (5x^2 + 20x + 22)/(x+2)",
+    "/home/user/.system/spade/9":
+        "\n Challenge 9 of Spades. Game start.\n" +
+        "bye."
 }
 const lockedFiles = {
     "/home/user/.system/session.txt" : "PHANTOM",
@@ -211,6 +223,7 @@ const lockedFiles = {
     "/home/user/.system/diamond/8" : "PASSPORT",
     "/home/user/.system/diamond/9" : "TRAPPED",
     "/home/user/.system/diamond/10" : "UNSENT",
+
     "/home/user/.system/club/2" : "RUNNING",
     "/home/user/.system/club/3" : "ASSORTMENT",
     "/home/user/.system/club/4" : "DESCENDANT",
@@ -220,17 +233,22 @@ const lockedFiles = {
     "/home/user/.system/club/8" : "PARTION",
     "/home/user/.system/club/9" : "APPARITION",
     "/home/user/.system/club/10" : "GHOUL",
+
     "/home/user/.system/heart/2" : "CHAIN",
     "/home/user/.system/heart/3" : "NIGHTINGALE",
     "/home/user/.system/heart/4" : "TEMPTATION",
     "/home/user/.system/heart/5" : "PLATTER", //Beuafort cipher, then base64, which is a riddle, the answer is platter
     "/home/user/.system/heart/6" : "TREASURE",
+    "/home/user/.system/heart/7" : "WORLD",
+
     "/home/user/.system/spade/2" : "SHINY",
     "/home/user/.system/spade/3" : "CHAOS",
     "/home/user/.system/spade/4" : "IGNORANCE",
     "/home/user/.system/spade/5" : "RUTH",
     "/home/user/.system/spade/6" : "SIMON",
-    "/home/user/.system/spade/7" : ""
+    "/home/user/.system/spade/7" : "WET",
+    "/home/user/.system/spade/8" : "CLOSURE",
+    "/home/user/.system/spade/9" : "RESPONSIBILITY"
 }
 const unlockedFiles = new Set();
 let pendingUnlockPath = null;
