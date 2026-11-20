@@ -64,7 +64,7 @@ const files = {
         "what is your name?", //use whoami command
     "/home/user/.system/diamond/6" : 
         "\nChallenge, 6 of Diamonds. Game start. \n" +
-        "Aolwohuavtjvklwohuavtpzwohuavtzljvuk. shift 7.", //I forgot. lmk if you solve it
+        "Aolwohuavtjvklwohuavtpzwohuavtzljvuk. shift 7.", //I forgot. lmk if you solve it, its not that hard.
     "/home/user/.system/diamond/7" : 
         "\nChallenge, 7 of Diamonds. Game start.\n" +
         "SYSTEM: Hey nerds. This is Mason Haven talking to you live." +
